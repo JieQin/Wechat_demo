@@ -1,0 +1,24 @@
+[ 2017-04-07T02:09:57+08:00 ] 103.7.30.69 /imooc.php/Home/Index/index?signature=f94599ded9cdb8466e99b0b142971ded105f9e69&timestamp=1491502196&nonce=973945859&openid=opiO1szrOLkuKgvmzmcpTvCUPef8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-04-07T02:10:04+08:00 ] 103.7.30.69 /imooc.php/Home/Index/index?signature=787a8aa2342e3f56d0346f472352e617bf5bb363&timestamp=1491502204&nonce=742203106&openid=opiO1szrOLkuKgvmzmcpTvCUPef8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000099s ]
+

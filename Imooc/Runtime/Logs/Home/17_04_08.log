@@ -1,0 +1,68 @@
+[ 2017-04-08T22:47:48+08:00 ] 221.216.132.201 /imooc.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+ERR: 非法操作:sendTemplateMsg
+
+[ 2017-04-08T22:47:57+08:00 ] 221.216.132.201 /imooc.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-04-08T22:48:22+08:00 ] 221.216.132.201 /imooc.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-04-08T22:49:04+08:00 ] 221.216.132.201 /imooc.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-04-08T22:50:05+08:00 ] 221.216.132.201 /imooc.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 167 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+ERR: Think\Controller:http_curl方法不存在！
+
+[ 2017-04-08T22:50:54+08:00 ] 221.216.132.201 /imooc.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-04-08T22:50:54+08:00 ] 103.7.30.69 /imooc.php/Home/Index/index?signature=454be341f0d8ae8204ef5317e86708a6fe229110&timestamp=1491663054&nonce=768181112&openid=opiO1szrOLkuKgvmzmcpTvCUPef8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+

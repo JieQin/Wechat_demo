@@ -1,0 +1,1128 @@
+[ 2017-04-05T13:37:55+08:00 ] 222.128.131.11 /imooc.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2017-04-05T13:38:45+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=0b5275c769f080f980e4dd083adaa6998dce068a&echostr=4887880416012261093&timestamp=1491370725&nonce=1045342775
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+
+[ 2017-04-05T13:38:55+08:00 ] 101.226.33.202 /imooc.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-04-05T15:53:05+08:00 ] 103.7.30.68 /imooc.php/Home/Index/index?signature=98d0e4b45fbe08b5621d51f1bba55a8203ea5878&timestamp=1491378784&nonce=80869211&openid=ovhgRw3vVxZahLIfglIfIt0ZG4PA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-04-05T15:53:34+08:00 ] 103.7.30.69 /imooc.php/Home/Index/index?signature=72b8270164ad6784135893c7dd0ac706e19c44ce&timestamp=1491378814&nonce=1065579755&openid=ovhgRw3vVxZahLIfglIfIt0ZG4PA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-05T15:57:21+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=dfa861ae82a8afa86eae2da38a8823f85047cf11&timestamp=1491379041&nonce=881521448&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-04-05T15:57:38+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=636342e1485ef46c53cae16ae14c7f7cbebd8b7e&timestamp=1491379057&nonce=1440405941&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2017-04-05T15:58:56+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=6eeab4fddd7934b5e645370d52be4b19ee2112d8&timestamp=1491379135&nonce=1385130803&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-04-05T15:59:02+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=f24632fcc8a26fcb22900a4c18cf20323be140b6&timestamp=1491379142&nonce=1364100965&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-04-05T16:14:21+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=e5e82db53bce563a1079103ef20e031f085d9482&timestamp=1491380061&nonce=233182297&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T16:15:36+08:00 ] 103.7.30.107 /imooc.php/Home/Index/index?signature=12d67c6bbe9d0fe764c7ac3de7d5257bb5bc9630&timestamp=1491380136&nonce=2088811250&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2017-04-05T16:15:48+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=f09a61d063b5ae596145142ea074492266b16f77&timestamp=1491380148&nonce=1338930005&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-04-05T16:17:01+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=134921eeba50760619a3d2b68b859b60c6bd0266&timestamp=1491380221&nonce=1891867880&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-04-05T16:17:09+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=c02ef9cdce28f23b167471a15d6582171aff32cb&timestamp=1491380228&nonce=456745388&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-04-05T16:50:48+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=01755656fbe8ca37aae1550ad249d7df86bb6f24&timestamp=1491382248&nonce=844394326&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-04-05T16:50:59+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=cf9bb08f08386c26abec56e8dfe5ebb7ec1c4ab2&timestamp=1491382254&nonce=666132575&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T16:54:45+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=e5833793be9d9ebd3def06b0747c903fc98068ca&timestamp=1491382480&nonce=1224978397&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-04-05T16:55:02+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=e8a2b75b49fd480e6ad1f1526efe4b8225ea0f95&timestamp=1491382491&nonce=1257960643&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-04-05T16:55:35+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=df7a53a2ce0e23efda8d06d7a47d85b33b61a769&timestamp=1491382534&nonce=1115425271&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-04-05T16:55:36+08:00 ] 103.7.30.107 /imooc.php/Home/Index/index?signature=ad42931efdfaeca8006fe699aaf499d4fabf8d57&timestamp=1491382525&nonce=183439785&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-04-05T16:58:39+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=0dc8627ec7b00429b9f7d1535126b61cfd1cd156&timestamp=1491382718&nonce=2108952397&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-04-05T17:07:35+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=c82f5aaa6f3ec864e769dcff9053506842a49afb&timestamp=1491383255&nonce=523178445&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-04-05T17:08:15+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=49081bb0df4e6b5fd28035b10fc324672383888b&timestamp=1491383295&nonce=2070388219&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-04-05T17:10:21+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=af95624cab2644dc04c714b567013e87580af875&timestamp=1491383421&nonce=2095298190&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-04-05T17:10:30+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=1afeb46f8d034c30873bf0bf77174218488c39f6&timestamp=1491383430&nonce=1962115462&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000104s ]
+
+[ 2017-04-05T17:16:06+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=c718086b64f30e338867dfcd8631808dd84a3e22&timestamp=1491383766&nonce=659575240&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-04-05T19:43:48+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=fabdeb9c71bfb72ee7ff954017693bad3f5c4da7&echostr=4206158145622833915&timestamp=1491392627&nonce=855871937
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2017-04-05T19:43:51+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=bb752b04af5c7ff161fdb00e3a555c15fb8366ec&echostr=771741896446173047&timestamp=1491392630&nonce=580731608
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2017-04-05T19:43:53+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=fbac08da2228ac6ff84dbe632a18c3b037e7ca77&echostr=9212845322696843007&timestamp=1491392633&nonce=1556186330
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2017-04-05T19:43:56+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=8a5eca88e0c92179cb581a9132c69bc3071f9518&echostr=7281118635726725115&timestamp=1491392635&nonce=984165279
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2017-04-05T19:43:57+08:00 ] 101.226.66.174 /imooc.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: timestamp /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2017-04-05T19:45:00+08:00 ] 222.128.131.11 /imooc.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-04-05T19:47:17+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=46060cc8837d32386dee8d8566e5c95394047226&echostr=5788407231181814757&timestamp=1491392837&nonce=1224030604
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2017-04-05T19:47:21+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=a6c542515adb12536a6b81e553fa25fc85d80253&echostr=5339629375400040830&timestamp=1491392840&nonce=986307681
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2017-04-05T19:47:24+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=0dbfe612c136c0797b98dbd0a6e320f2a791969d&echostr=4697513519626911566&timestamp=1491392844&nonce=305682161
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2017-04-05T19:48:24+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=dcc15787d7e5e005181429b2759b4244b6316d84&echostr=688509982964971979&timestamp=1491392904&nonce=2007831965
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-04-05T19:48:28+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=ebe46fb22bcce25eb5b34ed7ba890c45f63c0b15&echostr=7893049328231906751&timestamp=1491392907&nonce=475227295
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-04-05T19:48:31+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=8e5a26b07c2f4a919b9a804d149e822772733ddb&echostr=1855852088789491134&timestamp=1491392910&nonce=536882341
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-04-05T19:49:41+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=5187724ba9e9eadab359cbdf83adc5622824933f&echostr=9103297110009576407&timestamp=1491392981&nonce=249807539
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-04-05T19:49:51+08:00 ] 101.226.33.204 /imooc.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined variable: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2017-04-05T19:51:11+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=90ed53cb3b2921d9bef46451ba90952e4a1db993&echostr=5486351488382402479&timestamp=1491393071&nonce=371021973
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-04-05T19:51:13+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=c752583c135f187730c83ce46ad067b237c1efb9&echostr=6265201403281988339&timestamp=1491393073&nonce=201960986
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2017-04-05T19:51:15+08:00 ] 103.7.30.106 /imooc.php/Home/Index/index?signature=e1e7d377c887e8acbb096f1231ab10435cffd0ea&echostr=4394644245662071419&timestamp=1491393075&nonce=1029728730
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 0 行.
+
+[ 2017-04-05T20:03:17+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=40b49450c4258d5eb2c170c9956643c31bb8881a&timestamp=1491393796&nonce=290087810&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-04-05T20:03:41+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=bbe762b2cf5b85801ed6b2f3127ac108753bfea4&timestamp=1491393821&nonce=2091866874&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-04-05T20:05:47+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=0ca9734b12f37db8ae774b6d00a8e56fd32fafde&timestamp=1491393947&nonce=1171325053&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-04-05T20:06:00+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=63f58f9c44c8f35fd2beb717b90e64addeff0bee&timestamp=1491393960&nonce=161177249&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2017-04-05T20:17:40+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=c79005d8b04ae33757b27be3646f1fab415d6380&timestamp=1491394660&nonce=658440356&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-04-05T20:17:44+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=ae82b75e784dbc614980ff216bf914e32771985a&timestamp=1491394664&nonce=1539522247&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-04-05T20:17:49+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=95bc9cd4bb89fcbb8c8ad845173ffcd63d140ee8&timestamp=1491394668&nonce=174492689&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-04-05T20:17:50+08:00 ] 180.153.81.212 /imooc.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined index: timestamp /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-04-05T20:18:00+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=dec0673ccd3d9862826a4080da3b405c9ff7b9b4&timestamp=1491394680&nonce=706343829&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T20:24:04+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=2ffb8cbd485834058d83dbb18c8505b973436991&timestamp=1491395044&nonce=570523310&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-04-05T21:03:35+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=c67afbf2d3364c73d257af9b7e3c8e10229da6cf&timestamp=1491397415&nonce=1255634540&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined variable: content /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 82 行.
+NOTIC: [8] Undefined index: picurl /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-04-05T21:16:30+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=d1cf0fe7e4a8d1f051a188d98735eb3dc71739ae&timestamp=1491398190&nonce=1421538955&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined variable: content /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 82 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-05T21:18:48+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=ba84f802ae8c86c685d983df03466bcad028427c&timestamp=1491398328&nonce=656769758&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-04-05T21:21:28+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=75a4138e24d454b4d280ecc8da8ace6fe149a06f&timestamp=1491398487&nonce=2253383&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-04-05T21:33:21+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=b8f368dccde498093c3b1bcf5dca64e5334fd220&timestamp=1491399200&nonce=475014391&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [2] sprintf(): Too few arguments /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000200s ]
+
+[ 2017-04-05T21:33:44+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=df26e0841a2d7ba5e9151b22af209314f91ca359&timestamp=1491399224&nonce=2024038552&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [2] sprintf(): Too few arguments /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-04-05T21:36:21+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=cc009cfea12d03a55c0eab7fb45d8968562dbf71&timestamp=1491399380&nonce=1390863060&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [2] sprintf(): Too few arguments /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-04-05T21:37:56+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=69cd5eca04d0c98a35b47629a59a89290747bbe1&timestamp=1491399476&nonce=633269886&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-04-05T21:40:15+08:00 ] 103.7.30.108 /imooc.php/Home/Index/index?signature=058dfc206fc01d4ad3001409decfec0f8a0c91e1&timestamp=1491399615&nonce=1485002108&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-04-05T21:41:43+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=bf86097172130bc1457105dba04c23f51b3ea92d&timestamp=1491399703&nonce=1930444521&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [2] sprintf(): Too few arguments /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-04-05T21:44:40+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=d84edd9167b9bb6f0255dcc3102a37b627d16e69&timestamp=1491399879&nonce=2053330887&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2017-04-05T21:53:35+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=573d422360ec571537c473bf90d05889c7bde037&timestamp=1491400415&nonce=1114228065&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-04-05T22:25:55+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+NOTIC: [2] curl_exec() expects exactly 1 parameter, 0 given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 135 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 137 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000134s ]
+
+[ 2017-04-05T22:27:54+08:00 ] 222.128.131.11 /imooc.php/Home/Index/phpinfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2017-04-05T22:28:25+08:00 ] 222.128.131.11 /imooc.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: timestamp /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: signature /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-04-05T22:28:49+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] curl_exec() expects exactly 1 parameter, 0 given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 135 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 137 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-04-05T22:30:44+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 137 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-04-05T23:02:55+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 137 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000139s ]
+
+[ 2017-04-05T23:07:48+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Use of undefined constant CURLRETURNTRANSFER - assumed 'CURLRETURNTRANSFER' /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 153 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+
+[ 2017-04-05T23:08:40+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Use of undefined constant CURLRETURNTRANSFER - assumed 'CURLRETURNTRANSFER' /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 153 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2017-04-05T23:09:40+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant CURLRETURNTRANSFER - assumed 'CURLRETURNTRANSFER' /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 153 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000138s ]
+
+[ 2017-04-05T23:10:21+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant CURLRETURNTRANSFER - assumed 'CURLRETURNTRANSFER' /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 153 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-04-05T23:11:48+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant CURLRETURNTRANSFER - assumed 'CURLRETURNTRANSFER' /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 150 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 153 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2017-04-05T23:13:16+08:00 ] 222.128.131.11 /imooc.php/Home/Index/getWxServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 153 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2017-04-05T23:32:11+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=cb3a72062e76dee4c2f2af1b3836c76397319c78&timestamp=1491406331&nonce=190612745&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:34:24+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=339db3952133e49971f4c20302aff1feba16470f&timestamp=1491406464&nonce=1962756197&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:35:01+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=6078836fac4b8027967e10261c6b300015fb53ae&timestamp=1491406501&nonce=1905345908&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:38:37+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:44:18+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:44:53+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:47:27+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:47:29+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:47:29+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:47:30+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:47:30+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:47:30+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:47:33+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:47:34+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-05T23:49:05+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-04-05T23:49:53+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-04-05T23:49:55+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+
+[ 2017-04-05T23:49:57+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-04-05T23:49:57+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-04-05T23:52:59+08:00 ] 222.128.131.11 /imooc.php/Home/Index/demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-04-05T23:55:28+08:00 ] 103.7.30.104 /imooc.php/Home/Index/index?signature=031ad76835e71ff963458aa88b286f3b155d30aa&timestamp=1491407728&nonce=2020268533&openid=ovhgRw6PRMq4E4bQChSZ6iEEXGn8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+

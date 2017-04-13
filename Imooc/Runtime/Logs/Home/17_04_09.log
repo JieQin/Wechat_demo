@@ -1,0 +1,1976 @@
+[ 2017-04-09T00:15:05+08:00 ] 101.226.125.120 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+
+[ 2017-04-09T00:15:06+08:00 ] 101.226.125.115 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-04-09T00:15:06+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-04-09T00:15:10+08:00 ] 117.185.27.114 /imooc.php/Home/Index/getBaseInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-04-09T00:15:14+08:00 ] 101.226.51.229 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-04-09T00:15:14+08:00 ] 180.153.214.178 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-04-09T00:15:14+08:00 ] 180.153.201.79 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-04-09T00:15:14+08:00 ] 101.226.51.227 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-04-09T00:15:15+08:00 ] 180.153.214.189 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000147s ]
+
+[ 2017-04-09T00:15:17+08:00 ] 112.65.193.15 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-04-09T00:15:17+08:00 ] 61.151.226.202 /imooc.php/Home/Index/getUserOpenId
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: code /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined variable: postJson /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 256 行.
+ERR: Think\Controller:url方法不存在！
+
+[ 2017-04-09T00:15:22+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-04-09T00:15:29+08:00 ] 113.58.234.201 /imooc.php/Home/Index/getBaseInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-04-09T00:16:37+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getBaseInfo?nsukey=ZchfVgOqFgDyTIBoTSNmVXdcMYTje8pQXH6fnAkBEz1Nctb597MkdS8WRwMZ6n%2BWTzgUUA%2FpKrTgzUCM9jYfdaK%2FWcXW99jtCOE3ssV0g%2BxmHxkwvZsnQr12yo2s%2F77T3cVOUkxc9BeSxhrcLHcwQHoYvTfOoqk1A9S8w3lMEK%2BvSCj5QORKZRf%2Ftk8G%2FmsV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-04-09T00:19:57+08:00 ] 101.226.69.112 /imooc.php/Home/Index/getBaseInfo?nsukey=qt%2Fp7pjX5W3KIwK8ow7c0umA9OFoho4yNehqEcQKRrhO1xDGwqveNMfTld4n%2FplHy2W4ZU8%2FwWDrbHS1Dlfo63Sn%2FqxANqTuU3wX5N4SE%2Blo6%2BYM54dw1n5P0vpcox7KUdV2foJJQmOEfMQW5SqE1A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-04-09T00:19:57+08:00 ] 101.226.93.201 /imooc.php/Home/Index/getBaseInfo?nsukey=qt%2Fp7pjX5W3KIwK8ow7c0umA9OFoho4yNehqEcQKRrhO1xDGwqveNMfTld4n%2FplHy2W4ZU8%2FwWDrbHS1Dlfo63Sn%2FqxANqTuU3wX5N4SE%2Blo6%2BYM54dw1n5P0vpcox7KUdV2foJJQmOEfMQW5SqE1A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-04-09T00:19:58+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getBaseInfo?nsukey=qt%2Fp7pjX5W3KIwK8ow7c0umA9OFoho4yNehqEcQKRrhO1xDGwqveNMfTld4n%2FplHy2W4ZU8%2FwWDrbHS1Dlfo63Sn%2FqxANqTuU3wX5N4SE%2Blo6%2BYM54dw1n5P0vpcox7KUdV2foJJQmOEfMQW5SqE1A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-04-09T00:20:06+08:00 ] 180.153.81.212 /imooc.php/Home/Index/getBaseInfo?nsukey=qt%2Fp7pjX5W3KIwK8ow7c0umA9OFoho4yNehqEcQKRrhO1xDGwqveNMfTld4n%2FplHy2W4ZU8%2FwWDrbHS1Dlfo63Sn%2FqxANqTuU3wX5N4SE%2Blo6%2BYM54dw1n5P0vpcox7KUdV2foJJQmOEfMQW5SqE1A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-04-09T00:20:08+08:00 ] 180.153.214.182 /imooc.php/Home/Index/getBaseInfo?nsukey=qt%2Fp7pjX5W3KIwK8ow7c0umA9OFoho4yNehqEcQKRrhO1xDGwqveNMfTld4n%2FplHy2W4ZU8%2FwWDrbHS1Dlfo63Sn%2FqxANqTuU3wX5N4SE%2Blo6%2BYM54dw1n5P0vpcox7KUdV2foJJQmOEfMQW5SqE1A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-04-09T00:20:22+08:00 ] 123.207.7.127 /imooc.php/Home/Index/getBaseInfo?nsukey=qt%2Fp7pjX5W3KIwK8ow7c0umA9OFoho4yNehqEcQKRrhO1xDGwqveNMfTld4n%2FplHy2W4ZU8%2FwWDrbHS1Dlfo63Sn%2FqxANqTuU3wX5N4SE%2Blo6%2BYM54dw1n5P0vpcox7KUdV2foJJQmOEfMQW5SqE1A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-04-09T00:24:41+08:00 ] 101.226.68.141 /imooc.php/Home/Index/getBaseInfo?nsukey=DX8R%2Be572gkyAHzu1kDGVNKKlCZBdRFFdaugjHkxJHHm7mtiRFGAdieYYjm%2FWjOjFMpLcGmQ5UUE40EvpAhQ3UzhnVFUxnTJvRgXgbyBzb8682lCb9zb1CHNyufcKT4fo20o8QGWSZUsRm%2FmB0ONwT63%2FDLw7QQvt0ZvKrRshZKoXGmOtqlBRahxXeVvCKwA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-04-09T00:24:41+08:00 ] 101.226.125.108 /imooc.php/Home/Index/getBaseInfo?nsukey=DX8R%2Be572gkyAHzu1kDGVNKKlCZBdRFFdaugjHkxJHHm7mtiRFGAdieYYjm%2FWjOjFMpLcGmQ5UUE40EvpAhQ3UzhnVFUxnTJvRgXgbyBzb8682lCb9zb1CHNyufcKT4fo20o8QGWSZUsRm%2FmB0ONwT63%2FDLw7QQvt0ZvKrRshZKoXGmOtqlBRahxXeVvCKwA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-04-09T00:24:43+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getBaseInfo?nsukey=DX8R%2Be572gkyAHzu1kDGVNKKlCZBdRFFdaugjHkxJHHm7mtiRFGAdieYYjm%2FWjOjFMpLcGmQ5UUE40EvpAhQ3UzhnVFUxnTJvRgXgbyBzb8682lCb9zb1CHNyufcKT4fo20o8QGWSZUsRm%2FmB0ONwT63%2FDLw7QQvt0ZvKrRshZKoXGmOtqlBRahxXeVvCKwA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-04-09T00:24:50+08:00 ] 112.65.193.14 /imooc.php/Home/Index/getBaseInfo?nsukey=DX8R%2Be572gkyAHzu1kDGVNKKlCZBdRFFdaugjHkxJHHm7mtiRFGAdieYYjm%2FWjOjFMpLcGmQ5UUE40EvpAhQ3UzhnVFUxnTJvRgXgbyBzb8682lCb9zb1CHNyufcKT4fo20o8QGWSZUsRm%2FmB0ONwT63%2FDLw7QQvt0ZvKrRshZKoXGmOtqlBRahxXeVvCKwA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-04-09T00:25:03+08:00 ] 119.5.0.71 /imooc.php/Home/Index/getBaseInfo?nsukey=DX8R%2Be572gkyAHzu1kDGVNKKlCZBdRFFdaugjHkxJHHm7mtiRFGAdieYYjm%2FWjOjFMpLcGmQ5UUE40EvpAhQ3UzhnVFUxnTJvRgXgbyBzb8682lCb9zb1CHNyufcKT4fo20o8QGWSZUsRm%2FmB0ONwT63%2FDLw7QQvt0ZvKrRshZKoXGmOtqlBRahxXeVvCKwA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-04-09T00:29:55+08:00 ] 117.185.24.135 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-04-09T00:29:56+08:00 ] 101.226.102.89 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-04-09T00:29:56+08:00 ] 101.226.125.108 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-04-09T00:29:57+08:00 ] 101.226.102.89 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-04-09T00:29:58+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-04-09T00:30:05+08:00 ] 117.185.27.115 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-04-09T00:30:05+08:00 ] 101.226.68.213 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-04-09T00:30:05+08:00 ] 101.226.33.205 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-04-09T00:30:05+08:00 ] 101.226.33.202 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-04-09T00:30:05+08:00 ] 101.226.33.203 /imooc.php/Home/Index/getBaseInfo?nsukey=yZXnJIt8DD8i7%2BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%2BALdU0qWtFBWXMm6X1q4E%2BAAXbajNWQqFLR2wcI9ClpG45vyHqu%2BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%2FUOd2dDaca6MMSzMb3u%2FT0RdkfBQkX%2BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-04-09T00:31:38+08:00 ] 117.135.170.67 /imooc.php/Home/Index/getBaseInfo?nsukey=%2FBFEd60g1rnc%2Fm0kAEbuw3wduw0ezobdHBBUS5Sa2%2FMB911eacVlDhZ%2B8OHn7jobzJr4EOsErKXGsnsLgDQQ%2Fl9BbyUCEwDV%2FSfPbXuWvfDzlmzD73%2FEX786CTwvCcnbzD3zAEZLU8c70t8de5gVZ3JjrrpVg2HG1t2gYqVllZ%2BAlqGS2U7lpAoVBxS68%2Ftn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-04-09T00:31:38+08:00 ] 101.226.125.119 /imooc.php/Home/Index/getBaseInfo?nsukey=%2FBFEd60g1rnc%2Fm0kAEbuw3wduw0ezobdHBBUS5Sa2%2FMB911eacVlDhZ%2B8OHn7jobzJr4EOsErKXGsnsLgDQQ%2Fl9BbyUCEwDV%2FSfPbXuWvfDzlmzD73%2FEX786CTwvCcnbzD3zAEZLU8c70t8de5gVZ3JjrrpVg2HG1t2gYqVllZ%2BAlqGS2U7lpAoVBxS68%2Ftn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-04-09T00:31:39+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getBaseInfo?nsukey=%2FBFEd60g1rnc%2Fm0kAEbuw3wduw0ezobdHBBUS5Sa2%2FMB911eacVlDhZ%2B8OHn7jobzJr4EOsErKXGsnsLgDQQ%2Fl9BbyUCEwDV%2FSfPbXuWvfDzlmzD73%2FEX786CTwvCcnbzD3zAEZLU8c70t8de5gVZ3JjrrpVg2HG1t2gYqVllZ%2BAlqGS2U7lpAoVBxS68%2Ftn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000104s ]
+
+[ 2017-04-09T00:31:40+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserOpenId?code=011gtKo40V26zF12AVm40yXKo40gtKoY&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-04-09T00:31:47+08:00 ] 180.153.201.15 /imooc.php/Home/Index/getBaseInfo?nsukey=%2FBFEd60g1rnc%2Fm0kAEbuw3wduw0ezobdHBBUS5Sa2%2FMB911eacVlDhZ%2B8OHn7jobzJr4EOsErKXGsnsLgDQQ%2Fl9BbyUCEwDV%2FSfPbXuWvfDzlmzD73%2FEX786CTwvCcnbzD3zAEZLU8c70t8de5gVZ3JjrrpVg2HG1t2gYqVllZ%2BAlqGS2U7lpAoVBxS68%2Ftn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-04-09T00:31:49+08:00 ] 101.226.33.226 /imooc.php/Home/Index/getBaseInfo?nsukey=%2FBFEd60g1rnc%2Fm0kAEbuw3wduw0ezobdHBBUS5Sa2%2FMB911eacVlDhZ%2B8OHn7jobzJr4EOsErKXGsnsLgDQQ%2Fl9BbyUCEwDV%2FSfPbXuWvfDzlmzD73%2FEX786CTwvCcnbzD3zAEZLU8c70t8de5gVZ3JjrrpVg2HG1t2gYqVllZ%2BAlqGS2U7lpAoVBxS68%2Ftn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-04-09T00:43:12+08:00 ] 117.144.246.149 /imooc.php/Home/Index/getUserDetail?nsukey=iTuYE84c7ZJvZQ29KQnOqg2TgzTpDIJ%2BqQVImdJ0p5hKcUxNsAiuHk2lU%2F0q2V4e3l2cFnET9GhM%2FRQ3GrIX737G4aHXfjWQtjlnp%2BYXtvJYMfdd6PFTf6vEg1pPdwmmNfzqDzI8W4eO73Evma712v8TUT5WvJacJTenZDIIeME%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-04-09T00:43:12+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserDetail?nsukey=iTuYE84c7ZJvZQ29KQnOqg2TgzTpDIJ%2BqQVImdJ0p5hKcUxNsAiuHk2lU%2F0q2V4e3l2cFnET9GhM%2FRQ3GrIX737G4aHXfjWQtjlnp%2BYXtvJYMfdd6PFTf6vEg1pPdwmmNfzqDzI8W4eO73Evma712v8TUT5WvJacJTenZDIIeME%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-04-09T00:43:21+08:00 ] 180.153.206.21 /imooc.php/Home/Index/getUserDetail?nsukey=iTuYE84c7ZJvZQ29KQnOqg2TgzTpDIJ%2BqQVImdJ0p5hKcUxNsAiuHk2lU%2F0q2V4e3l2cFnET9GhM%2FRQ3GrIX737G4aHXfjWQtjlnp%2BYXtvJYMfdd6PFTf6vEg1pPdwmmNfzqDzI8W4eO73Evma712v8TUT5WvJacJTenZDIIeME%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+
+[ 2017-04-09T00:43:34+08:00 ] 113.58.234.201 /imooc.php/Home/Index/getUserDetail?nsukey=iTuYE84c7ZJvZQ29KQnOqg2TgzTpDIJ%2BqQVImdJ0p5hKcUxNsAiuHk2lU%2F0q2V4e3l2cFnET9GhM%2FRQ3GrIX737G4aHXfjWQtjlnp%2BYXtvJYMfdd6PFTf6vEg1pPdwmmNfzqDzI8W4eO73Evma712v8TUT5WvJacJTenZDIIeME%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-04-09T00:43:39+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserDetail?nsukey=iTuYE84c7ZJvZQ29KQnOqg2TgzTpDIJ%2BqQVImdJ0p5hKcUxNsAiuHk2lU%2F0q2V4e3l2cFnET9GhM%2FRQ3GrIX737G4aHXfjWQtjlnp%2BYXtvJYMfdd6PFTf6vEg1pPdwmmNfzqDzI8W4eO73Evma712v8TUT5WvJacJTenZDIIeME%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-04-09T00:43:50+08:00 ] 180.153.214.192 /imooc.php/Home/Index/getUserInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined index: code /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 268 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000171s ]
+
+[ 2017-04-09T00:44:52+08:00 ] 117.185.24.135 /imooc.php/Home/Index/getUserInfo?code=041VfjFP1829d71DUMCP1VnwFP1VfjFM&state=123&nsukey=y8XF7l6fN94ZOuj3h1nOPST191Xkqxd079v3Odjm2N9ceRCYr8LsrIcDIhCW2MjDNIIEvd7kIHUY3T%2BCtWu8ZfqujH1Q0Usc%2B6HyptrHG%2F2HM0KaL%2F2nsgiRHkFowkVpvrXX4FPE20nlusg35Ih5%2FB5UvJFNgiQwoGp6jndpanWSZBhT1nfV2zYqp3L8Xw%2B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2017-04-09T00:44:56+08:00 ] 101.226.125.122 /imooc.php/Home/Index/getUserInfo?code=041VfjFP1829d71DUMCP1VnwFP1VfjFM&state=123&nsukey=y8XF7l6fN94ZOuj3h1nOPST191Xkqxd079v3Odjm2N9ceRCYr8LsrIcDIhCW2MjDNIIEvd7kIHUY3T%2BCtWu8ZfqujH1Q0Usc%2B6HyptrHG%2F2HM0KaL%2F2nsgiRHkFowkVpvrXX4FPE20nlusg35Ih5%2FB5UvJFNgiQwoGp6jndpanWSZBhT1nfV2zYqp3L8Xw%2B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-04-09T00:45:00+08:00 ] 140.207.62.210 /imooc.php/Home/Index/getUserInfo?code=041VfjFP1829d71DUMCP1VnwFP1VfjFM&state=123&nsukey=y8XF7l6fN94ZOuj3h1nOPST191Xkqxd079v3Odjm2N9ceRCYr8LsrIcDIhCW2MjDNIIEvd7kIHUY3T%2BCtWu8ZfqujH1Q0Usc%2B6HyptrHG%2F2HM0KaL%2F2nsgiRHkFowkVpvrXX4FPE20nlusg35Ih5%2FB5UvJFNgiQwoGp6jndpanWSZBhT1nfV2zYqp3L8Xw%2B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000197s ]
+
+[ 2017-04-09T00:45:03+08:00 ] 101.226.125.118 /imooc.php/Home/Index/getUserInfo?code=041VfjFP1829d71DUMCP1VnwFP1VfjFM&state=123&nsukey=y8XF7l6fN94ZOuj3h1nOPST191Xkqxd079v3Odjm2N9ceRCYr8LsrIcDIhCW2MjDNIIEvd7kIHUY3T%2BCtWu8ZfqujH1Q0Usc%2B6HyptrHG%2F2HM0KaL%2F2nsgiRHkFowkVpvrXX4FPE20nlusg35Ih5%2FB5UvJFNgiQwoGp6jndpanWSZBhT1nfV2zYqp3L8Xw%2B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2017-04-09T00:45:07+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserInfo?code=041VfjFP1829d71DUMCP1VnwFP1VfjFM&state=123&nsukey=y8XF7l6fN94ZOuj3h1nOPST191Xkqxd079v3Odjm2N9ceRCYr8LsrIcDIhCW2MjDNIIEvd7kIHUY3T%2BCtWu8ZfqujH1Q0Usc%2B6HyptrHG%2F2HM0KaL%2F2nsgiRHkFowkVpvrXX4FPE20nlusg35Ih5%2FB5UvJFNgiQwoGp6jndpanWSZBhT1nfV2zYqp3L8Xw%2B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000171s ]
+
+[ 2017-04-09T00:49:11+08:00 ] 117.185.24.135 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-04-09T00:49:12+08:00 ] 140.207.54.140 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-04-09T00:49:14+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-04-09T00:49:18+08:00 ] 140.207.185.124 /imooc.php/Home/Index/getUserInfo?code=0113YuDU0YQZfV1BdpGU0ZAqDU03YuDq&state=123&nsukey=QvKGA2poIlMOrK58dq4rYeEMUwZ5T%2BarFuFWdo3IDEvG0fvrOZyFeydDCG82NE541fD4AyIlxT9wFA67FCUc2cccqHX9N6RSUiN2RUvIVz3ZMdZTEWPoN69FI5IpUeR7IhFPBu42fLLfSYpeY2vi4u4%2FmiNlxYvEeNNP2T5in1bqMwVI%2FvAZEHFR1Dj8u4TY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2017-04-09T00:49:21+08:00 ] 180.153.160.24 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-04-09T00:49:21+08:00 ] 180.153.201.79 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-09T00:49:21+08:00 ] 61.151.226.16 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-09T00:49:22+08:00 ] 101.226.125.16 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-09T00:49:23+08:00 ] 101.226.89.14 /imooc.php/Home/Index/getUserInfo?code=0113YuDU0YQZfV1BdpGU0ZAqDU03YuDq&state=123&nsukey=QvKGA2poIlMOrK58dq4rYeEMUwZ5T%2BarFuFWdo3IDEvG0fvrOZyFeydDCG82NE541fD4AyIlxT9wFA67FCUc2cccqHX9N6RSUiN2RUvIVz3ZMdZTEWPoN69FI5IpUeR7IhFPBu42fLLfSYpeY2vi4u4%2FmiNlxYvEeNNP2T5in1bqMwVI%2FvAZEHFR1Dj8u4TY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-04-09T00:49:24+08:00 ] 180.163.2.117 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-04-09T00:49:24+08:00 ] 140.207.54.199 /imooc.php/Home/Index/getUserInfo?code=0113YuDU0YQZfV1BdpGU0ZAqDU03YuDq&state=123&nsukey=QvKGA2poIlMOrK58dq4rYeEMUwZ5T%2BarFuFWdo3IDEvG0fvrOZyFeydDCG82NE541fD4AyIlxT9wFA67FCUc2cccqHX9N6RSUiN2RUvIVz3ZMdZTEWPoN69FI5IpUeR7IhFPBu42fLLfSYpeY2vi4u4%2FmiNlxYvEeNNP2T5in1bqMwVI%2FvAZEHFR1Dj8u4TY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000122s ]
+
+[ 2017-04-09T00:49:27+08:00 ] 101.226.125.109 /imooc.php/Home/Index/getUserInfo?code=0113YuDU0YQZfV1BdpGU0ZAqDU03YuDq&state=123&nsukey=QvKGA2poIlMOrK58dq4rYeEMUwZ5T%2BarFuFWdo3IDEvG0fvrOZyFeydDCG82NE541fD4AyIlxT9wFA67FCUc2cccqHX9N6RSUiN2RUvIVz3ZMdZTEWPoN69FI5IpUeR7IhFPBu42fLLfSYpeY2vi4u4%2FmiNlxYvEeNNP2T5in1bqMwVI%2FvAZEHFR1Dj8u4TY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2017-04-09T00:49:31+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserInfo?code=0113YuDU0YQZfV1BdpGU0ZAqDU03YuDq&state=123&nsukey=QvKGA2poIlMOrK58dq4rYeEMUwZ5T%2BarFuFWdo3IDEvG0fvrOZyFeydDCG82NE541fD4AyIlxT9wFA67FCUc2cccqHX9N6RSUiN2RUvIVz3ZMdZTEWPoN69FI5IpUeR7IhFPBu42fLLfSYpeY2vi4u4%2FmiNlxYvEeNNP2T5in1bqMwVI%2FvAZEHFR1Dj8u4TY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 271 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000190s ]
+
+[ 2017-04-09T00:49:58+08:00 ] 42.51.203.204 /imooc.php/Home/Index/getUserDetail?nsukey=ToaZCpSqBXXTEKmokU7P1%2FCH7d6IDMwVtHtDRrLHkbj9k0LEcMnu9%2FJO7HZiSDsKP6h2UUC%2FWdNz4zXen8rzGOYA5hT9gWI%2BMOrEgeig6oJUP8NaFub73Q1WlOk9acYeGTUfe%2BTWonAFJj0ul5xVeKJvyd%2FNs8KMmlcYFNv6rjx4gWPJO0qceuLdydfMA205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2017-04-09T00:53:07+08:00 ] 117.185.27.104 /imooc.php/Home/Index/getUserDetail?nsukey=fyDGUWIk1IKQ4PcFxTcIeTFs6nEuYtDg0TrM1n6NQ%2BLZfLqUrGG%2FBi2os0wtB5Fq32D9Sx21EjP9Ljmm353RqGH2KQb%2BhWSyqaKUsMz5F2o7UwauVDsWwhji8ikVTH80h8Azg59dvcpP6RPyI7XW7iptyZgEy2rnkxABg2Pz0PR40HQ7HyOZdCVVepzpJvXQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000098s ]
+
+[ 2017-04-09T00:53:08+08:00 ] 101.226.61.193 /imooc.php/Home/Index/getUserDetail?nsukey=fyDGUWIk1IKQ4PcFxTcIeTFs6nEuYtDg0TrM1n6NQ%2BLZfLqUrGG%2FBi2os0wtB5Fq32D9Sx21EjP9Ljmm353RqGH2KQb%2BhWSyqaKUsMz5F2o7UwauVDsWwhji8ikVTH80h8Azg59dvcpP6RPyI7XW7iptyZgEy2rnkxABg2Pz0PR40HQ7HyOZdCVVepzpJvXQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000098s ]
+
+[ 2017-04-09T00:53:11+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserDetail?nsukey=fyDGUWIk1IKQ4PcFxTcIeTFs6nEuYtDg0TrM1n6NQ%2BLZfLqUrGG%2FBi2os0wtB5Fq32D9Sx21EjP9Ljmm353RqGH2KQb%2BhWSyqaKUsMz5F2o7UwauVDsWwhji8ikVTH80h8Azg59dvcpP6RPyI7XW7iptyZgEy2rnkxABg2Pz0PR40HQ7HyOZdCVVepzpJvXQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-04-09T00:53:15+08:00 ] 117.185.27.104 /imooc.php/Home/Index/getUserInfo?code=001emekL1FVji21Xf8kL1C02kL1emekh&state=123&nsukey=HXC4Sdnz3yq6HfcCHHZVtplxisVj8P0JPSWAxW7mvrrcJO7v9%2B9UaqUvrxduMTOdO5sQQaU8CYygrcvaj6%2FkWIiBISmvOZ1Dnt9G2DoSLZg8J7moijixqibC%2BYP%2BeD4zqJgJs0NHsVim2lWcCXOLTA%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T00:53:17+08:00 ] 61.151.226.202 /imooc.php/Home/Index/getUserDetail?nsukey=fyDGUWIk1IKQ4PcFxTcIeTFs6nEuYtDg0TrM1n6NQ%2BLZfLqUrGG%2FBi2os0wtB5Fq32D9Sx21EjP9Ljmm353RqGH2KQb%2BhWSyqaKUsMz5F2o7UwauVDsWwhji8ikVTH80h8Azg59dvcpP6RPyI7XW7iptyZgEy2rnkxABg2Pz0PR40HQ7HyOZdCVVepzpJvXQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-04-09T00:53:17+08:00 ] 101.226.102.60 /imooc.php/Home/Index/getUserInfo?code=001emekL1FVji21Xf8kL1C02kL1emekh&state=123&nsukey=HXC4Sdnz3yq6HfcCHHZVtplxisVj8P0JPSWAxW7mvrrcJO7v9%2B9UaqUvrxduMTOdO5sQQaU8CYygrcvaj6%2FkWIiBISmvOZ1Dnt9G2DoSLZg8J7moijixqibC%2BYP%2BeD4zqJgJs0NHsVim2lWcCXOLTA%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T00:53:19+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserInfo?code=001emekL1FVji21Xf8kL1C02kL1emekh&state=123&nsukey=HXC4Sdnz3yq6HfcCHHZVtplxisVj8P0JPSWAxW7mvrrcJO7v9%2B9UaqUvrxduMTOdO5sQQaU8CYygrcvaj6%2FkWIiBISmvOZ1Dnt9G2DoSLZg8J7moijixqibC%2BYP%2BeD4zqJgJs0NHsVim2lWcCXOLTA%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:00:56+08:00 ] 140.207.185.122 /imooc.php/Home/Index/getUserDetail?nsukey=LZ6EGOWqqj%2FclHMf%2FBf4zb0l%2F8E9yKl1gT3NIwhCFriQjCe0W2CGqoqpjPjMRob1uLUIKkrmQNBjX3Q%2FQ9ksM2o6nnkNNFJqXLozgOpOEPuLvDT2J8YTld8fZIdt%2BgkrbUZ5RuMfKloVCiUvC6rIlpj7Go20knIhL3b3YaxPR9ZRhw0n7XwvL1vhTqfuWymq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000098s ]
+
+[ 2017-04-09T01:00:56+08:00 ] 140.207.54.199 /imooc.php/Home/Index/getUserDetail?nsukey=LZ6EGOWqqj%2FclHMf%2FBf4zb0l%2F8E9yKl1gT3NIwhCFriQjCe0W2CGqoqpjPjMRob1uLUIKkrmQNBjX3Q%2FQ9ksM2o6nnkNNFJqXLozgOpOEPuLvDT2J8YTld8fZIdt%2BgkrbUZ5RuMfKloVCiUvC6rIlpj7Go20knIhL3b3YaxPR9ZRhw0n7XwvL1vhTqfuWymq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-04-09T01:00:57+08:00 ] 101.226.125.15 /imooc.php/Home/Index/getUserDetail?nsukey=LZ6EGOWqqj%2FclHMf%2FBf4zb0l%2F8E9yKl1gT3NIwhCFriQjCe0W2CGqoqpjPjMRob1uLUIKkrmQNBjX3Q%2FQ9ksM2o6nnkNNFJqXLozgOpOEPuLvDT2J8YTld8fZIdt%2BgkrbUZ5RuMfKloVCiUvC6rIlpj7Go20knIhL3b3YaxPR9ZRhw0n7XwvL1vhTqfuWymq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-04-09T01:00:57+08:00 ] 140.207.55.80 /imooc.php/Home/Index/getUserDetail?nsukey=LZ6EGOWqqj%2FclHMf%2FBf4zb0l%2F8E9yKl1gT3NIwhCFriQjCe0W2CGqoqpjPjMRob1uLUIKkrmQNBjX3Q%2FQ9ksM2o6nnkNNFJqXLozgOpOEPuLvDT2J8YTld8fZIdt%2BgkrbUZ5RuMfKloVCiUvC6rIlpj7Go20knIhL3b3YaxPR9ZRhw0n7XwvL1vhTqfuWymq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-09T01:00:59+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserDetail?nsukey=LZ6EGOWqqj%2FclHMf%2FBf4zb0l%2F8E9yKl1gT3NIwhCFriQjCe0W2CGqoqpjPjMRob1uLUIKkrmQNBjX3Q%2FQ9ksM2o6nnkNNFJqXLozgOpOEPuLvDT2J8YTld8fZIdt%2BgkrbUZ5RuMfKloVCiUvC6rIlpj7Go20knIhL3b3YaxPR9ZRhw0n7XwvL1vhTqfuWymq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-04-09T01:01:02+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserInfo?code=021mQSwa0B3fKu10Ngwa0fMYwa0mQSwh&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000122s ]
+
+[ 2017-04-09T01:01:04+08:00 ] 140.207.55.79 /imooc.php/Home/Index/getUserInfo?code=021mQSwa0B3fKu10Ngwa0fMYwa0mQSwh&state=123&nsukey=WJMBD5Ybd3%2F5pLLkat5nL78S6E59fV7dTxS%2FUbODl1bW9tkQnc02yLc%2FUDwQBE8mTsmK2AGvKK27tt1D4szzffjX%2BzXxZUBo%2F4HruFSkJN2EPtuziV9JtHWLJ3vNUU2N9N4ioaq6niBEIEBYVH3gSn5QTId46cu89l4zdFueQvYFvYcIhpxNz7OwY3tkaVsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-04-09T01:01:05+08:00 ] 117.185.27.142 /imooc.php/Home/Index/getUserInfo?code=021mQSwa0B3fKu10Ngwa0fMYwa0mQSwh&state=123&nsukey=WJMBD5Ybd3%2F5pLLkat5nL78S6E59fV7dTxS%2FUbODl1bW9tkQnc02yLc%2FUDwQBE8mTsmK2AGvKK27tt1D4szzffjX%2BzXxZUBo%2F4HruFSkJN2EPtuziV9JtHWLJ3vNUU2N9N4ioaq6niBEIEBYVH3gSn5QTId46cu89l4zdFueQvYFvYcIhpxNz7OwY3tkaVsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-04-09T01:01:06+08:00 ] 61.151.226.191 /imooc.php/Home/Index/getUserDetail?nsukey=LZ6EGOWqqj%2FclHMf%2FBf4zb0l%2F8E9yKl1gT3NIwhCFriQjCe0W2CGqoqpjPjMRob1uLUIKkrmQNBjX3Q%2FQ9ksM2o6nnkNNFJqXLozgOpOEPuLvDT2J8YTld8fZIdt%2BgkrbUZ5RuMfKloVCiUvC6rIlpj7Go20knIhL3b3YaxPR9ZRhw0n7XwvL1vhTqfuWymq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-04-09T01:01:07+08:00 ] 180.153.201.15 /imooc.php/Home/Index/getUserDetail?nsukey=LZ6EGOWqqj%2FclHMf%2FBf4zb0l%2F8E9yKl1gT3NIwhCFriQjCe0W2CGqoqpjPjMRob1uLUIKkrmQNBjX3Q%2FQ9ksM2o6nnkNNFJqXLozgOpOEPuLvDT2J8YTld8fZIdt%2BgkrbUZ5RuMfKloVCiUvC6rIlpj7Go20knIhL3b3YaxPR9ZRhw0n7XwvL1vhTqfuWymq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000101s ]
+
+[ 2017-04-09T01:01:09+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserInfo?code=021mQSwa0B3fKu10Ngwa0fMYwa0mQSwh&state=123&nsukey=WJMBD5Ybd3%2F5pLLkat5nL78S6E59fV7dTxS%2FUbODl1bW9tkQnc02yLc%2FUDwQBE8mTsmK2AGvKK27tt1D4szzffjX%2BzXxZUBo%2F4HruFSkJN2EPtuziV9JtHWLJ3vNUU2N9N4ioaq6niBEIEBYVH3gSn5QTId46cu89l4zdFueQvYFvYcIhpxNz7OwY3tkaVsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 272 行.
+NOTIC: [8] Undefined index: openid /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 2 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2017-04-09T01:01:19+08:00 ] 119.5.1.8 /imooc.php/Home/Index/getUserDetail?nsukey=LZ6EGOWqqj%2FclHMf%2FBf4zb0l%2F8E9yKl1gT3NIwhCFriQjCe0W2CGqoqpjPjMRob1uLUIKkrmQNBjX3Q%2FQ9ksM2o6nnkNNFJqXLozgOpOEPuLvDT2J8YTld8fZIdt%2BgkrbUZ5RuMfKloVCiUvC6rIlpj7Go20knIhL3b3YaxPR9ZRhw0n7XwvL1vhTqfuWymq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-04-09T01:01:41+08:00 ] 140.207.62.210 /imooc.php/Home/Index/getUserDetail?nsukey=PSFNLoILdhJm%2F2%2FrG%2BsLX4XV%2FRgi5hIfkP9Tt4opwD9UblumI8pGpe1En8nc%2Fh6eON%2Bv96iZrkT3zHeJvs%2FykI0%2BgIOVlT8m5dN3tHtaNxdYPep1YRB0h%2F2xPvLjAEnO6KK4vQb4p0tpgbVZyXuOaPBMDyA96eL6MUVnlDkhKWrfLGmHxZXs%2FIyqD2YG2kJW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-04-09T01:01:42+08:00 ] 140.207.54.199 /imooc.php/Home/Index/getUserDetail?nsukey=PSFNLoILdhJm%2F2%2FrG%2BsLX4XV%2FRgi5hIfkP9Tt4opwD9UblumI8pGpe1En8nc%2Fh6eON%2Bv96iZrkT3zHeJvs%2FykI0%2BgIOVlT8m5dN3tHtaNxdYPep1YRB0h%2F2xPvLjAEnO6KK4vQb4p0tpgbVZyXuOaPBMDyA96eL6MUVnlDkhKWrfLGmHxZXs%2FIyqD2YG2kJW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-04-09T01:01:44+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserDetail?nsukey=PSFNLoILdhJm%2F2%2FrG%2BsLX4XV%2FRgi5hIfkP9Tt4opwD9UblumI8pGpe1En8nc%2Fh6eON%2Bv96iZrkT3zHeJvs%2FykI0%2BgIOVlT8m5dN3tHtaNxdYPep1YRB0h%2F2xPvLjAEnO6KK4vQb4p0tpgbVZyXuOaPBMDyA96eL6MUVnlDkhKWrfLGmHxZXs%2FIyqD2YG2kJW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-04-09T01:01:49+08:00 ] 101.226.33.220 /imooc.php/Home/Index/getUserDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-04-09T01:01:52+08:00 ] 61.151.218.118 /imooc.php/Home/Index/getUserDetail?nsukey=PSFNLoILdhJm%2F2%2FrG%2BsLX4XV%2FRgi5hIfkP9Tt4opwD9UblumI8pGpe1En8nc%2Fh6eON%2Bv96iZrkT3zHeJvs%2FykI0%2BgIOVlT8m5dN3tHtaNxdYPep1YRB0h%2F2xPvLjAEnO6KK4vQb4p0tpgbVZyXuOaPBMDyA96eL6MUVnlDkhKWrfLGmHxZXs%2FIyqD2YG2kJW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-04-09T01:02:36+08:00 ] 140.207.185.126 /imooc.php/Home/Index/getUserDetail?nsukey=%2Fui2kcsC7ww6zMQO%2BT%2B7yzXNzOLuSqj02CSYQRs1TKWxD4s1IAofS%2FbH2FvW4An9H8V4r9YvL1%2FbsW%2F%2B2nstmWau0J74vmQhFLqGeO2UBFqDNEXbiKiHitDgZxPjUQgPHqlCZ2oyRpuJPNgmMyRLsAV7sNxxiJg6E4Mcwzo5FHg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-04-09T01:02:37+08:00 ] 101.226.125.113 /imooc.php/Home/Index/getUserDetail?nsukey=%2Fui2kcsC7ww6zMQO%2BT%2B7yzXNzOLuSqj02CSYQRs1TKWxD4s1IAofS%2FbH2FvW4An9H8V4r9YvL1%2FbsW%2F%2B2nstmWau0J74vmQhFLqGeO2UBFqDNEXbiKiHitDgZxPjUQgPHqlCZ2oyRpuJPNgmMyRLsAV7sNxxiJg6E4Mcwzo5FHg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-04-09T01:02:38+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserDetail?nsukey=%2Fui2kcsC7ww6zMQO%2BT%2B7yzXNzOLuSqj02CSYQRs1TKWxD4s1IAofS%2FbH2FvW4An9H8V4r9YvL1%2FbsW%2F%2B2nstmWau0J74vmQhFLqGeO2UBFqDNEXbiKiHitDgZxPjUQgPHqlCZ2oyRpuJPNgmMyRLsAV7sNxxiJg6E4Mcwzo5FHg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-04-09T01:02:40+08:00 ] 61.148.242.115 /imooc.php/Home/Index/getUserInfo?code=021kCw3P08ajQ72QPA3P0H2x3P0kCw33&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-04-09T01:02:42+08:00 ] 140.207.185.122 /imooc.php/Home/Index/getUserInfo?code=021kCw3P08ajQ72QPA3P0H2x3P0kCw33&state=123&nsukey=tFdWqsY9CUMCiIPUoUfK%2FDEEQOcqPGed6oIVvM6jKcJhhT8akLDu3u%2BQJ1Yh2lwe7t%2Bycf%2F1u8pZ7SMmj%2FN6vweZFZdXsJ207gZPsCNtDb7i8v3mzMMXfhDILv3LzoOJoAX1s6Q5IlcXeOdn27nC6mcLf6Lp9v38tMHbY%2BZBjQu45RBEXdJNDL57OpYlN09A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-09T01:02:43+08:00 ] 101.226.125.109 /imooc.php/Home/Index/getUserInfo?code=021kCw3P08ajQ72QPA3P0H2x3P0kCw33&state=123&nsukey=tFdWqsY9CUMCiIPUoUfK%2FDEEQOcqPGed6oIVvM6jKcJhhT8akLDu3u%2BQJ1Yh2lwe7t%2Bycf%2F1u8pZ7SMmj%2FN6vweZFZdXsJ207gZPsCNtDb7i8v3mzMMXfhDILv3LzoOJoAX1s6Q5IlcXeOdn27nC6mcLf6Lp9v38tMHbY%2BZBjQu45RBEXdJNDL57OpYlN09A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-04-09T01:02:46+08:00 ] 180.153.211.190 /imooc.php/Home/Index/getUserDetail?nsukey=%2Fui2kcsC7ww6zMQO%2BT%2B7yzXNzOLuSqj02CSYQRs1TKWxD4s1IAofS%2FbH2FvW4An9H8V4r9YvL1%2FbsW%2F%2B2nstmWau0J74vmQhFLqGeO2UBFqDNEXbiKiHitDgZxPjUQgPHqlCZ2oyRpuJPNgmMyRLsAV7sNxxiJg6E4Mcwzo5FHg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-04-09T01:02:46+08:00 ] 180.153.206.18 /imooc.php/Home/Index/getUserDetail?nsukey=%2Fui2kcsC7ww6zMQO%2BT%2B7yzXNzOLuSqj02CSYQRs1TKWxD4s1IAofS%2FbH2FvW4An9H8V4r9YvL1%2FbsW%2F%2B2nstmWau0J74vmQhFLqGeO2UBFqDNEXbiKiHitDgZxPjUQgPHqlCZ2oyRpuJPNgmMyRLsAV7sNxxiJg6E4Mcwzo5FHg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000046s ]
+
+[ 2017-04-09T01:02:46+08:00 ] 101.226.51.230 /imooc.php/Home/Index/getUserDetail?nsukey=%2Fui2kcsC7ww6zMQO%2BT%2B7yzXNzOLuSqj02CSYQRs1TKWxD4s1IAofS%2FbH2FvW4An9H8V4r9YvL1%2FbsW%2F%2B2nstmWau0J74vmQhFLqGeO2UBFqDNEXbiKiHitDgZxPjUQgPHqlCZ2oyRpuJPNgmMyRLsAV7sNxxiJg6E4Mcwzo5FHg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-04-09T01:02:46+08:00 ] 61.151.226.189 /imooc.php/Home/Index/getUserDetail?nsukey=%2Fui2kcsC7ww6zMQO%2BT%2B7yzXNzOLuSqj02CSYQRs1TKWxD4s1IAofS%2FbH2FvW4An9H8V4r9YvL1%2FbsW%2F%2B2nstmWau0J74vmQhFLqGeO2UBFqDNEXbiKiHitDgZxPjUQgPHqlCZ2oyRpuJPNgmMyRLsAV7sNxxiJg6E4Mcwzo5FHg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2017-04-09T01:02:46+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=021kCw3P08ajQ72QPA3P0H2x3P0kCw33&state=123&nsukey=tFdWqsY9CUMCiIPUoUfK%2FDEEQOcqPGed6oIVvM6jKcJhhT8akLDu3u%2BQJ1Yh2lwe7t%2Bycf%2F1u8pZ7SMmj%2FN6vweZFZdXsJ207gZPsCNtDb7i8v3mzMMXfhDILv3LzoOJoAX1s6Q5IlcXeOdn27nC6mcLf6Lp9v38tMHbY%2BZBjQu45RBEXdJNDL57OpYlN09A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-04-09T01:02:48+08:00 ] 101.226.33.237 /imooc.php/Home/Index/getUserDetail?nsukey=%2Fui2kcsC7ww6zMQO%2BT%2B7yzXNzOLuSqj02CSYQRs1TKWxD4s1IAofS%2FbH2FvW4An9H8V4r9YvL1%2FbsW%2F%2B2nstmWau0J74vmQhFLqGeO2UBFqDNEXbiKiHitDgZxPjUQgPHqlCZ2oyRpuJPNgmMyRLsAV7sNxxiJg6E4Mcwzo5FHg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-04-09T01:03:53+08:00 ] 140.207.185.125 /imooc.php/Home/Index/getUserDetail?nsukey=RDJ5FTmzZQM8XqtptwqUPSci1uY2P9idNgHS2PIsNafFUJCiN8b2kRqxpYkI%2FbqLsCy8liC5%2BMadA7qlO1Ga82zfwGIAmK03vfgmw6Qg0k%2Ff4kPv%2BYRGWZo9PqU6XDgyjHOuBtyVSDgVSjaHeZEixuZZ%2B8Mc6WdjhxQaZTW1Nn0C3iW76tSDmdu4zEutHvwm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2017-04-09T01:03:55+08:00 ] 101.226.125.116 /imooc.php/Home/Index/getUserDetail?nsukey=RDJ5FTmzZQM8XqtptwqUPSci1uY2P9idNgHS2PIsNafFUJCiN8b2kRqxpYkI%2FbqLsCy8liC5%2BMadA7qlO1Ga82zfwGIAmK03vfgmw6Qg0k%2Ff4kPv%2BYRGWZo9PqU6XDgyjHOuBtyVSDgVSjaHeZEixuZZ%2B8Mc6WdjhxQaZTW1Nn0C3iW76tSDmdu4zEutHvwm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-04-09T01:03:57+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserDetail?nsukey=RDJ5FTmzZQM8XqtptwqUPSci1uY2P9idNgHS2PIsNafFUJCiN8b2kRqxpYkI%2FbqLsCy8liC5%2BMadA7qlO1Ga82zfwGIAmK03vfgmw6Qg0k%2Ff4kPv%2BYRGWZo9PqU6XDgyjHOuBtyVSDgVSjaHeZEixuZZ%2B8Mc6WdjhxQaZTW1Nn0C3iW76tSDmdu4zEutHvwm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-04-09T01:03:59+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=021jOnvY1UmyXV08KwvY1l8uvY1jOnvY&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:04:01+08:00 ] 140.207.185.123 /imooc.php/Home/Index/getUserInfo?code=021jOnvY1UmyXV08KwvY1l8uvY1jOnvY&state=123&nsukey=Fe5gOiqp24KxNQO4jPYyXDaO%2BVxQ2Yq9pB4D9PsKj1B9R8CFK8OStSax9F3EjC4Z%2FwjpeGanMXXLf1O4IqlODuMXi%2BY99%2FQmR0bm%2FtJC93FJTgfR1ij1pqfsz6YGwv1ihjyfalWVrANIoPBTJvmv5cZrEfL%2FnwW10r%2FzFhPqyDUXX2bhFv12RIq%2FKgzgKMNB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:04:02+08:00 ] 180.163.2.118 /imooc.php/Home/Index/getUserDetail?nsukey=RDJ5FTmzZQM8XqtptwqUPSci1uY2P9idNgHS2PIsNafFUJCiN8b2kRqxpYkI%2FbqLsCy8liC5%2BMadA7qlO1Ga82zfwGIAmK03vfgmw6Qg0k%2Ff4kPv%2BYRGWZo9PqU6XDgyjHOuBtyVSDgVSjaHeZEixuZZ%2B8Mc6WdjhxQaZTW1Nn0C3iW76tSDmdu4zEutHvwm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-04-09T01:04:02+08:00 ] 180.153.214.198 /imooc.php/Home/Index/getUserDetail?nsukey=RDJ5FTmzZQM8XqtptwqUPSci1uY2P9idNgHS2PIsNafFUJCiN8b2kRqxpYkI%2FbqLsCy8liC5%2BMadA7qlO1Ga82zfwGIAmK03vfgmw6Qg0k%2Ff4kPv%2BYRGWZo9PqU6XDgyjHOuBtyVSDgVSjaHeZEixuZZ%2B8Mc6WdjhxQaZTW1Nn0C3iW76tSDmdu4zEutHvwm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-09T01:04:03+08:00 ] 140.207.185.123 /imooc.php/Home/Index/getUserInfo?code=021jOnvY1UmyXV08KwvY1l8uvY1jOnvY&state=123&nsukey=Fe5gOiqp24KxNQO4jPYyXDaO%2BVxQ2Yq9pB4D9PsKj1B9R8CFK8OStSax9F3EjC4Z%2FwjpeGanMXXLf1O4IqlODuMXi%2BY99%2FQmR0bm%2FtJC93FJTgfR1ij1pqfsz6YGwv1ihjyfalWVrANIoPBTJvmv5cZrEfL%2FnwW10r%2FzFhPqyDUXX2bhFv12RIq%2FKgzgKMNB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:04:05+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=021jOnvY1UmyXV08KwvY1l8uvY1jOnvY&state=123&nsukey=Fe5gOiqp24KxNQO4jPYyXDaO%2BVxQ2Yq9pB4D9PsKj1B9R8CFK8OStSax9F3EjC4Z%2FwjpeGanMXXLf1O4IqlODuMXi%2BY99%2FQmR0bm%2FtJC93FJTgfR1ij1pqfsz6YGwv1ihjyfalWVrANIoPBTJvmv5cZrEfL%2FnwW10r%2FzFhPqyDUXX2bhFv12RIq%2FKgzgKMNB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:08:24+08:00 ] 140.207.54.198 /imooc.php/Home/Index/getOpenId?nsukey=tCLAJILpKKTgB8XT4LhV6ph%2FEUGAuMCIl%2B%2BC2jaxw8mBWaP3blMfWNezO1l1HDb5zR8uE2zw24Hty3xNSJ2RAATJuZan04FkyN2hUqOUwq%2Fzv3YUAVu%2F99ASJGcQL0jt8mNQaZxx11RR7q3Wv9NNIMxvRkU8LUJrUI%2Fs0WO11ntlXv%2BvLS7c33APFV5q4hAb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+ERR: 非法操作:getOpenId
+
+[ 2017-04-09T01:08:25+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getOpenId?nsukey=tCLAJILpKKTgB8XT4LhV6ph%2FEUGAuMCIl%2B%2BC2jaxw8mBWaP3blMfWNezO1l1HDb5zR8uE2zw24Hty3xNSJ2RAATJuZan04FkyN2hUqOUwq%2Fzv3YUAVu%2F99ASJGcQL0jt8mNQaZxx11RR7q3Wv9NNIMxvRkU8LUJrUI%2Fs0WO11ntlXv%2BvLS7c33APFV5q4hAb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+ERR: 非法操作:getOpenId
+
+[ 2017-04-09T01:08:32+08:00 ] 101.226.33.237 /imooc.php/Home/Index/getOpenId
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+ERR: 非法操作:getOpenId
+
+[ 2017-04-09T01:08:34+08:00 ] 180.153.214.182 /imooc.php/Home/Index/getOpenId?nsukey=tCLAJILpKKTgB8XT4LhV6ph%2FEUGAuMCIl%2B%2BC2jaxw8mBWaP3blMfWNezO1l1HDb5zR8uE2zw24Hty3xNSJ2RAATJuZan04FkyN2hUqOUwq%2Fzv3YUAVu%2F99ASJGcQL0jt8mNQaZxx11RR7q3Wv9NNIMxvRkU8LUJrUI%2Fs0WO11ntlXv%2BvLS7c33APFV5q4hAb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+ERR: 非法操作:getOpenId
+
+[ 2017-04-09T01:08:34+08:00 ] 101.226.68.213 /imooc.php/Home/Index/getOpenId?nsukey=tCLAJILpKKTgB8XT4LhV6ph%2FEUGAuMCIl%2B%2BC2jaxw8mBWaP3blMfWNezO1l1HDb5zR8uE2zw24Hty3xNSJ2RAATJuZan04FkyN2hUqOUwq%2Fzv3YUAVu%2F99ASJGcQL0jt8mNQaZxx11RR7q3Wv9NNIMxvRkU8LUJrUI%2Fs0WO11ntlXv%2BvLS7c33APFV5q4hAb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+ERR: 非法操作:getOpenId
+
+[ 2017-04-09T01:08:51+08:00 ] 140.207.54.158 /imooc.php/Home/Index/getUserOpenId?nsukey=xvXsWPLW6kJFS16YCEkPQAK0hoIstJwBZ%2F6bz7J%2FcKFWAaKLYlQvgMrqrcSkRLV4vmFPWv92vezz8TT5HzGlpWcqx2YLOvr%2F3DUoJfOOgbECLVzxcVVUpkYQlNX9Dldtbet6Fhh9kLEhbCJ1MFjhXe2fwhNT9v1vGxzaQ6Z%2F1O2gf32mgd74N4qR9ZHrfkT5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: code /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 254 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-04-09T01:08:52+08:00 ] 140.207.185.124 /imooc.php/Home/Index/getUserOpenId?nsukey=xvXsWPLW6kJFS16YCEkPQAK0hoIstJwBZ%2F6bz7J%2FcKFWAaKLYlQvgMrqrcSkRLV4vmFPWv92vezz8TT5HzGlpWcqx2YLOvr%2F3DUoJfOOgbECLVzxcVVUpkYQlNX9Dldtbet6Fhh9kLEhbCJ1MFjhXe2fwhNT9v1vGxzaQ6Z%2F1O2gf32mgd74N4qR9ZHrfkT5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: code /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 254 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2017-04-09T01:08:53+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserOpenId?nsukey=xvXsWPLW6kJFS16YCEkPQAK0hoIstJwBZ%2F6bz7J%2FcKFWAaKLYlQvgMrqrcSkRLV4vmFPWv92vezz8TT5HzGlpWcqx2YLOvr%2F3DUoJfOOgbECLVzxcVVUpkYQlNX9Dldtbet6Fhh9kLEhbCJ1MFjhXe2fwhNT9v1vGxzaQ6Z%2F1O2gf32mgd74N4qR9ZHrfkT5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined index: code /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 254 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-04-09T01:08:58+08:00 ] 101.226.99.196 /imooc.php/Home/Index/getUserOpenId
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined index: code /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 254 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000206s ]
+
+[ 2017-04-09T01:09:00+08:00 ] 180.153.201.79 /imooc.php/Home/Index/getUserOpenId?nsukey=xvXsWPLW6kJFS16YCEkPQAK0hoIstJwBZ%2F6bz7J%2FcKFWAaKLYlQvgMrqrcSkRLV4vmFPWv92vezz8TT5HzGlpWcqx2YLOvr%2F3DUoJfOOgbECLVzxcVVUpkYQlNX9Dldtbet6Fhh9kLEhbCJ1MFjhXe2fwhNT9v1vGxzaQ6Z%2F1O2gf32mgd74N4qR9ZHrfkT5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: code /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 254 行.
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2017-04-09T01:09:26+08:00 ] 140.207.54.197 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-04-09T01:09:28+08:00 ] 101.226.125.109 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-09T01:09:30+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-04-09T01:09:31+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserOpenId?code=0511N5ac1ZsBct0CrDcc1kQ1ac11N5aW&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-04-09T01:09:36+08:00 ] 101.226.125.100 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-04-09T01:09:36+08:00 ] 180.153.211.172 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-04-09T01:09:36+08:00 ] 101.226.125.100 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-04-09T01:09:36+08:00 ] 61.151.226.202 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-04-09T01:09:36+08:00 ] 101.226.89.119 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-04-09T01:09:39+08:00 ] 180.153.214.191 /imooc.php/Home/Index/getBaseInfo?nsukey=zAK4EKpSV%2FBgxEIELwG5qEpxlAFaFleGpRquvO4P0Tg275UubwgOcrSm%2B4g4zd%2Bgvpy2bwS8Bwlsr3HpAT9Qqm38SkG45Gh9hpBkuVHP9KGLGBQ7eYb28opDAeExigixamoHgBQ6pQyES7Zx7pAlaBQvy6EExdSNf%2FOqkKshogopv7fOtX2ODzLBnycEOzm4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-04-09T01:11:23+08:00 ] 140.207.54.198 /imooc.php/Home/Index/getUserDetail?nsukey=7tf9oJNVZvR%2BRKiHSR%2Fni1aJu0hpD1bv4t91C9eJ07WQwjZQxAhs69RstSgwGTxTtB02oc%2FzumpNVVIDCpbNkxjxhN54GQBXO40a8ijnp%2F7rQCYFoH1FiF0PVGm2REGGQb14GI2yKTaFtEWsukWWzk%2FCp7J7yQJ5opCgdUxh%2F8KaPTrNaYrNUxVpJvaF0iYE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-04-09T01:11:23+08:00 ] 101.226.69.112 /imooc.php/Home/Index/getUserDetail?nsukey=7tf9oJNVZvR%2BRKiHSR%2Fni1aJu0hpD1bv4t91C9eJ07WQwjZQxAhs69RstSgwGTxTtB02oc%2FzumpNVVIDCpbNkxjxhN54GQBXO40a8ijnp%2F7rQCYFoH1FiF0PVGm2REGGQb14GI2yKTaFtEWsukWWzk%2FCp7J7yQJ5opCgdUxh%2F8KaPTrNaYrNUxVpJvaF0iYE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-04-09T01:11:25+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserDetail?nsukey=7tf9oJNVZvR%2BRKiHSR%2Fni1aJu0hpD1bv4t91C9eJ07WQwjZQxAhs69RstSgwGTxTtB02oc%2FzumpNVVIDCpbNkxjxhN54GQBXO40a8ijnp%2F7rQCYFoH1FiF0PVGm2REGGQb14GI2yKTaFtEWsukWWzk%2FCp7J7yQJ5opCgdUxh%2F8KaPTrNaYrNUxVpJvaF0iYE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-04-09T01:11:27+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=011Ulzhe2UGOCB0Wegie2a5qhe2Ulzha&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:11:28+08:00 ] 140.207.185.125 /imooc.php/Home/Index/getUserInfo?code=011Ulzhe2UGOCB0Wegie2a5qhe2Ulzha&state=123&nsukey=qZoCwFkzNhR0LZws6qkYk%2BgaHNoAeLiVl4WhRIO8VbB0MWjWQcSp98vCcJTLD8iNmRHjGsDhirtWmc1ErsK5prWh7wcTnoykZqxDboK2fIHeRzsrC23ryYl%2BNEwU6C0KdaqI8j3rdZ%2FmDlcPcs1QKA%2FWWUl0YLDx793idCO5grJYzw3PZ%2B%2Fq9tVxAtYnFljq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:11:29+08:00 ] 140.207.185.125 /imooc.php/Home/Index/getUserInfo?code=011Ulzhe2UGOCB0Wegie2a5qhe2Ulzha&state=123&nsukey=qZoCwFkzNhR0LZws6qkYk%2BgaHNoAeLiVl4WhRIO8VbB0MWjWQcSp98vCcJTLD8iNmRHjGsDhirtWmc1ErsK5prWh7wcTnoykZqxDboK2fIHeRzsrC23ryYl%2BNEwU6C0KdaqI8j3rdZ%2FmDlcPcs1QKA%2FWWUl0YLDx793idCO5grJYzw3PZ%2B%2Fq9tVxAtYnFljq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:11:31+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=011Ulzhe2UGOCB0Wegie2a5qhe2Ulzha&state=123&nsukey=qZoCwFkzNhR0LZws6qkYk%2BgaHNoAeLiVl4WhRIO8VbB0MWjWQcSp98vCcJTLD8iNmRHjGsDhirtWmc1ErsK5prWh7wcTnoykZqxDboK2fIHeRzsrC23ryYl%2BNEwU6C0KdaqI8j3rdZ%2FmDlcPcs1QKA%2FWWUl0YLDx793idCO5grJYzw3PZ%2B%2Fq9tVxAtYnFljq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:11:32+08:00 ] 101.226.99.196 /imooc.php/Home/Index/getUserDetail?nsukey=7tf9oJNVZvR%2BRKiHSR%2Fni1aJu0hpD1bv4t91C9eJ07WQwjZQxAhs69RstSgwGTxTtB02oc%2FzumpNVVIDCpbNkxjxhN54GQBXO40a8ijnp%2F7rQCYFoH1FiF0PVGm2REGGQb14GI2yKTaFtEWsukWWzk%2FCp7J7yQJ5opCgdUxh%2F8KaPTrNaYrNUxVpJvaF0iYE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+
+[ 2017-04-09T01:11:44+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=011Ulzhe2UGOCB0Wegie2a5qhe2Ulzha&state=123&nsukey=qZoCwFkzNhR0LZws6qkYk%2BgaHNoAeLiVl4WhRIO8VbB0MWjWQcSp98vCcJTLD8iNmRHjGsDhirtWmc1ErsK5prWh7wcTnoykZqxDboK2fIHeRzsrC23ryYl%2BNEwU6C0KdaqI8j3rdZ%2FmDlcPcs1QKA%2FWWUl0YLDx793idCO5grJYzw3PZ%2B%2Fq9tVxAtYnFljq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:18:15+08:00 ] 140.207.185.122 /imooc.php/Home/Index/getUserDetail?nsukey=7GWnu41%2F9aypVrUmRfxxmRLhbZre6XlxuMmQeFPj9tJMl%2B1uuuQtogpagU1Gk0PVLvKFd9%2BjHIf5MuVCBcmVdr1W6CiNVF9MR8jvEMCZuwa6VRLYtIMp8ha6Hca60vouB5rMH%2FeQ8ApdrWQKQtpYU3c1t%2FwM%2FlAUfXD70pyT78tJ4%2FR%2B90q2sNvTgrvCJQG0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-04-09T01:18:16+08:00 ] 140.207.54.197 /imooc.php/Home/Index/getUserDetail?nsukey=7GWnu41%2F9aypVrUmRfxxmRLhbZre6XlxuMmQeFPj9tJMl%2B1uuuQtogpagU1Gk0PVLvKFd9%2BjHIf5MuVCBcmVdr1W6CiNVF9MR8jvEMCZuwa6VRLYtIMp8ha6Hca60vouB5rMH%2FeQ8ApdrWQKQtpYU3c1t%2FwM%2FlAUfXD70pyT78tJ4%2FR%2B90q2sNvTgrvCJQG0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-09T01:18:20+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserDetail?nsukey=7GWnu41%2F9aypVrUmRfxxmRLhbZre6XlxuMmQeFPj9tJMl%2B1uuuQtogpagU1Gk0PVLvKFd9%2BjHIf5MuVCBcmVdr1W6CiNVF9MR8jvEMCZuwa6VRLYtIMp8ha6Hca60vouB5rMH%2FeQ8ApdrWQKQtpYU3c1t%2FwM%2FlAUfXD70pyT78tJ4%2FR%2B90q2sNvTgrvCJQG0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-04-09T01:18:22+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=031RXUNY0dQNc02IttMY0P8ENY0RXUNU&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:18:23+08:00 ] 140.207.54.180 /imooc.php/Home/Index/getUserInfo?code=031RXUNY0dQNc02IttMY0P8ENY0RXUNU&state=123&nsukey=PgD0R3qycM59R1K2ST1Z6tp5mp4w9avF0BinBPjK1%2FX5%2B9V7WPXm6fO7f%2B6LS1etLPYH5QRlHq4VrIRzzDMqtpWiwhWUrNJj5Oeu116NWMSeKLeICI8lVekeHjejw2osf2tfz37F0E5bLM2hNU%2F82npPflgoCn7R%2BEb2Z2no562Bomv%2B%2B8Ap%2Bu9eVzSRzMCQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:18:24+08:00 ] 140.207.118.16 /imooc.php/Home/Index/getUserInfo?code=031RXUNY0dQNc02IttMY0P8ENY0RXUNU&state=123&nsukey=PgD0R3qycM59R1K2ST1Z6tp5mp4w9avF0BinBPjK1%2FX5%2B9V7WPXm6fO7f%2B6LS1etLPYH5QRlHq4VrIRzzDMqtpWiwhWUrNJj5Oeu116NWMSeKLeICI8lVekeHjejw2osf2tfz37F0E5bLM2hNU%2F82npPflgoCn7R%2BEb2Z2no562Bomv%2B%2B8Ap%2Bu9eVzSRzMCQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:18:25+08:00 ] 180.163.2.117 /imooc.php/Home/Index/getUserDetail?nsukey=7GWnu41%2F9aypVrUmRfxxmRLhbZre6XlxuMmQeFPj9tJMl%2B1uuuQtogpagU1Gk0PVLvKFd9%2BjHIf5MuVCBcmVdr1W6CiNVF9MR8jvEMCZuwa6VRLYtIMp8ha6Hca60vouB5rMH%2FeQ8ApdrWQKQtpYU3c1t%2FwM%2FlAUfXD70pyT78tJ4%2FR%2B90q2sNvTgrvCJQG0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-04-09T01:18:25+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=031RXUNY0dQNc02IttMY0P8ENY0RXUNU&state=123&nsukey=PgD0R3qycM59R1K2ST1Z6tp5mp4w9avF0BinBPjK1%2FX5%2B9V7WPXm6fO7f%2B6LS1etLPYH5QRlHq4VrIRzzDMqtpWiwhWUrNJj5Oeu116NWMSeKLeICI8lVekeHjejw2osf2tfz37F0E5bLM2hNU%2F82npPflgoCn7R%2BEb2Z2no562Bomv%2B%2B8Ap%2Bu9eVzSRzMCQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:20:45+08:00 ] 140.207.185.124 /imooc.php/Home/Index/getUserDetail?nsukey=ujxG%2BLaaMTTtE79W7J9glIa5tcoimswfvnMByCUne3vNLPcRWX8PfsW8g2wWWZqRmcf0vF63CfDpvTkmVoud%2BQu47vVxCN6NooRI66RfFiY6rYFf8d7IFqRD%2BYke%2FGXnsNL6TQiOqdVgG4PG9qGkS2PJo8Ismwce%2BDVxDN3osJ4%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000158s ]
+
+[ 2017-04-09T01:20:46+08:00 ] 101.226.102.52 /imooc.php/Home/Index/getUserDetail?nsukey=ujxG%2BLaaMTTtE79W7J9glIa5tcoimswfvnMByCUne3vNLPcRWX8PfsW8g2wWWZqRmcf0vF63CfDpvTkmVoud%2BQu47vVxCN6NooRI66RfFiY6rYFf8d7IFqRD%2BYke%2FGXnsNL6TQiOqdVgG4PG9qGkS2PJo8Ismwce%2BDVxDN3osJ4%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-04-09T01:20:46+08:00 ] 140.207.63.103 /imooc.php/Home/Index/getUserDetail?nsukey=ujxG%2BLaaMTTtE79W7J9glIa5tcoimswfvnMByCUne3vNLPcRWX8PfsW8g2wWWZqRmcf0vF63CfDpvTkmVoud%2BQu47vVxCN6NooRI66RfFiY6rYFf8d7IFqRD%2BYke%2FGXnsNL6TQiOqdVgG4PG9qGkS2PJo8Ismwce%2BDVxDN3osJ4%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-04-09T01:20:47+08:00 ] 140.207.54.199 /imooc.php/Home/Index/getUserDetail?nsukey=ujxG%2BLaaMTTtE79W7J9glIa5tcoimswfvnMByCUne3vNLPcRWX8PfsW8g2wWWZqRmcf0vF63CfDpvTkmVoud%2BQu47vVxCN6NooRI66RfFiY6rYFf8d7IFqRD%2BYke%2FGXnsNL6TQiOqdVgG4PG9qGkS2PJo8Ismwce%2BDVxDN3osJ4%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-04-09T01:20:48+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserDetail?nsukey=ujxG%2BLaaMTTtE79W7J9glIa5tcoimswfvnMByCUne3vNLPcRWX8PfsW8g2wWWZqRmcf0vF63CfDpvTkmVoud%2BQu47vVxCN6NooRI66RfFiY6rYFf8d7IFqRD%2BYke%2FGXnsNL6TQiOqdVgG4PG9qGkS2PJo8Ismwce%2BDVxDN3osJ4%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-04-09T01:20:54+08:00 ] 101.226.33.204 /imooc.php/Home/Index/getUserDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-04-09T01:20:55+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=041UeG6Y10thlW0VHr4Y157z6Y1UeG6p&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:20:56+08:00 ] 180.153.214.182 /imooc.php/Home/Index/getUserDetail?nsukey=ujxG%2BLaaMTTtE79W7J9glIa5tcoimswfvnMByCUne3vNLPcRWX8PfsW8g2wWWZqRmcf0vF63CfDpvTkmVoud%2BQu47vVxCN6NooRI66RfFiY6rYFf8d7IFqRD%2BYke%2FGXnsNL6TQiOqdVgG4PG9qGkS2PJo8Ismwce%2BDVxDN3osJ4%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-04-09T01:20:56+08:00 ] 140.207.54.187 /imooc.php/Home/Index/getUserInfo?code=041UeG6Y10thlW0VHr4Y157z6Y1UeG6p&state=123&nsukey=cb9u%2F04GPpupWK%2FjinzNPTT4EHu5HxO1adauEw33m5QtafadJQwsAHt1aNt2WRZOsfTXJV0gQBRIBST7%2BES2jdnw78bfMYV4IN3XZXkSZdrIS66fPIoB3QCIwQNZnQAPmfxCW7fxM1hb4%2Bb1fgBqKx%2B8TEasXdpc7sLSFGKO79YJKQsqDWqPVyJIIw3YJk21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:20:58+08:00 ] 101.226.125.121 /imooc.php/Home/Index/getUserInfo?code=041UeG6Y10thlW0VHr4Y157z6Y1UeG6p&state=123&nsukey=cb9u%2F04GPpupWK%2FjinzNPTT4EHu5HxO1adauEw33m5QtafadJQwsAHt1aNt2WRZOsfTXJV0gQBRIBST7%2BES2jdnw78bfMYV4IN3XZXkSZdrIS66fPIoB3QCIwQNZnQAPmfxCW7fxM1hb4%2Bb1fgBqKx%2B8TEasXdpc7sLSFGKO79YJKQsqDWqPVyJIIw3YJk21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:21:01+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=041UeG6Y10thlW0VHr4Y157z6Y1UeG6p&state=123&nsukey=cb9u%2F04GPpupWK%2FjinzNPTT4EHu5HxO1adauEw33m5QtafadJQwsAHt1aNt2WRZOsfTXJV0gQBRIBST7%2BES2jdnw78bfMYV4IN3XZXkSZdrIS66fPIoB3QCIwQNZnQAPmfxCW7fxM1hb4%2Bb1fgBqKx%2B8TEasXdpc7sLSFGKO79YJKQsqDWqPVyJIIw3YJk21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:23:05+08:00 ] 140.207.54.140 /imooc.php/Home/Index/getUserDetail?nsukey=QFZXQVBCZkeZYGmqBTvgyZgkyuq%2B8etwzwtGilQz%2FPiYbteVOcyS71hd3IgXKQwegc7P9MLWFNYhoatS%2BXlC%2BMywwEYrGgH1tS9wLF%2FFSeP2%2FubMgEQiPXFZadLnG0Q7V9jz1%2BBuV%2FeYIr7uSrlrMabL91kkjU4TksOmuEdBUKFnXv24jTL4KhDGYxZ%2BvAKx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-04-09T01:23:05+08:00 ] 140.207.54.187 /imooc.php/Home/Index/getUserDetail?nsukey=QFZXQVBCZkeZYGmqBTvgyZgkyuq%2B8etwzwtGilQz%2FPiYbteVOcyS71hd3IgXKQwegc7P9MLWFNYhoatS%2BXlC%2BMywwEYrGgH1tS9wLF%2FFSeP2%2FubMgEQiPXFZadLnG0Q7V9jz1%2BBuV%2FeYIr7uSrlrMabL91kkjU4TksOmuEdBUKFnXv24jTL4KhDGYxZ%2BvAKx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-04-09T01:23:07+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserDetail?nsukey=QFZXQVBCZkeZYGmqBTvgyZgkyuq%2B8etwzwtGilQz%2FPiYbteVOcyS71hd3IgXKQwegc7P9MLWFNYhoatS%2BXlC%2BMywwEYrGgH1tS9wLF%2FFSeP2%2FubMgEQiPXFZadLnG0Q7V9jz1%2BBuV%2FeYIr7uSrlrMabL91kkjU4TksOmuEdBUKFnXv24jTL4KhDGYxZ%2BvAKx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-04-09T01:23:10+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=05115w842QbBDJ0mtP842WDk84215w8c&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:23:11+08:00 ] 140.207.55.80 /imooc.php/Home/Index/getUserInfo?code=05115w842QbBDJ0mtP842WDk84215w8c&state=123&nsukey=E3CtgdrEs4E68WOI7eShQVtAvyisgY9fj0pvxcsiHETfDYyNB5cv45EZNeryL6y2Nx7xt7Z94nOxuprbKUW6FnKeTNcWZC7mvy%2Fpc5QRUI%2F3bRI%2F7CH7Lt0QYZKFdv92OY1%2FdGz026RbIF9yK4Ym%2BoWwvNA%2Bex%2BgwsixLamiiDx9I7X1ppxfJL83vFh1EV5f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:23:13+08:00 ] 101.226.61.184 /imooc.php/Home/Index/getUserInfo?code=05115w842QbBDJ0mtP842WDk84215w8c&state=123&nsukey=E3CtgdrEs4E68WOI7eShQVtAvyisgY9fj0pvxcsiHETfDYyNB5cv45EZNeryL6y2Nx7xt7Z94nOxuprbKUW6FnKeTNcWZC7mvy%2Fpc5QRUI%2F3bRI%2F7CH7Lt0QYZKFdv92OY1%2FdGz026RbIF9yK4Ym%2BoWwvNA%2Bex%2BgwsixLamiiDx9I7X1ppxfJL83vFh1EV5f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:23:14+08:00 ] 101.226.33.218 /imooc.php/Home/Index/getUserDetail?nsukey=QFZXQVBCZkeZYGmqBTvgyZgkyuq%2B8etwzwtGilQz%2FPiYbteVOcyS71hd3IgXKQwegc7P9MLWFNYhoatS%2BXlC%2BMywwEYrGgH1tS9wLF%2FFSeP2%2FubMgEQiPXFZadLnG0Q7V9jz1%2BBuV%2FeYIr7uSrlrMabL91kkjU4TksOmuEdBUKFnXv24jTL4KhDGYxZ%2BvAKx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2017-04-09T01:23:14+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserInfo?code=05115w842QbBDJ0mtP842WDk84215w8c&state=123&nsukey=E3CtgdrEs4E68WOI7eShQVtAvyisgY9fj0pvxcsiHETfDYyNB5cv45EZNeryL6y2Nx7xt7Z94nOxuprbKUW6FnKeTNcWZC7mvy%2Fpc5QRUI%2F3bRI%2F7CH7Lt0QYZKFdv92OY1%2FdGz026RbIF9yK4Ym%2BoWwvNA%2Bex%2BgwsixLamiiDx9I7X1ppxfJL83vFh1EV5f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+
+[ 2017-04-09T01:23:26+08:00 ] 123.207.182.208 /imooc.php/Home/Index/getUserDetail?nsukey=QFZXQVBCZkeZYGmqBTvgyZgkyuq%2B8etwzwtGilQz%2FPiYbteVOcyS71hd3IgXKQwegc7P9MLWFNYhoatS%2BXlC%2BMywwEYrGgH1tS9wLF%2FFSeP2%2FubMgEQiPXFZadLnG0Q7V9jz1%2BBuV%2FeYIr7uSrlrMabL91kkjU4TksOmuEdBUKFnXv24jTL4KhDGYxZ%2BvAKx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-04-09T01:28:02+08:00 ] 140.207.63.102 /imooc.php/Home/Index/getBaseInfo?nsukey=lEJ%2FVM9a9w4Qmy7GCDNdWSASQOPXxvvO8UhgbiBbOPuRHBYEXbNFLPzlOlakiszVOulohsdo2wefW%2FJDhFXbooeaiBnV5zpcL7DPfuVQEoQUe2nPESO5Wi09qg7X32FOGDT2iTCFnDzaz%2FN1rX4KAav%2FZv3RVWwKEBv6e0QYLOANDgT%2Bbw%2BtfdXrFJLiPklo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-04-09T01:28:03+08:00 ] 101.226.102.52 /imooc.php/Home/Index/getBaseInfo?nsukey=lEJ%2FVM9a9w4Qmy7GCDNdWSASQOPXxvvO8UhgbiBbOPuRHBYEXbNFLPzlOlakiszVOulohsdo2wefW%2FJDhFXbooeaiBnV5zpcL7DPfuVQEoQUe2nPESO5Wi09qg7X32FOGDT2iTCFnDzaz%2FN1rX4KAav%2FZv3RVWwKEBv6e0QYLOANDgT%2Bbw%2BtfdXrFJLiPklo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-04-09T01:28:03+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getBaseInfo?nsukey=lEJ%2FVM9a9w4Qmy7GCDNdWSASQOPXxvvO8UhgbiBbOPuRHBYEXbNFLPzlOlakiszVOulohsdo2wefW%2FJDhFXbooeaiBnV5zpcL7DPfuVQEoQUe2nPESO5Wi09qg7X32FOGDT2iTCFnDzaz%2FN1rX4KAav%2FZv3RVWwKEBv6e0QYLOANDgT%2Bbw%2BtfdXrFJLiPklo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2017-04-09T01:28:04+08:00 ] 221.216.132.201 /imooc.php/Home/Index/getUserOpenId?code=051nMNDz1b2eRe0edvDz1cAADz1nMNDi&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [2] curl_errno(): 1 is not a valid cURL handle resource /var/www/html/Imooc/Home/Controller/IndexController.class.php 第 159 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000151s ]
+
+[ 2017-04-09T01:28:12+08:00 ] 101.226.66.192 /imooc.php/Home/Index/getBaseInfo?nsukey=lEJ%2FVM9a9w4Qmy7GCDNdWSASQOPXxvvO8UhgbiBbOPuRHBYEXbNFLPzlOlakiszVOulohsdo2wefW%2FJDhFXbooeaiBnV5zpcL7DPfuVQEoQUe2nPESO5Wi09qg7X32FOGDT2iTCFnDzaz%2FN1rX4KAav%2FZv3RVWwKEBv6e0QYLOANDgT%2Bbw%2BtfdXrFJLiPklo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-04-09T01:28:12+08:00 ] 180.153.214.198 /imooc.php/Home/Index/getBaseInfo?nsukey=lEJ%2FVM9a9w4Qmy7GCDNdWSASQOPXxvvO8UhgbiBbOPuRHBYEXbNFLPzlOlakiszVOulohsdo2wefW%2FJDhFXbooeaiBnV5zpcL7DPfuVQEoQUe2nPESO5Wi09qg7X32FOGDT2iTCFnDzaz%2FN1rX4KAav%2FZv3RVWwKEBv6e0QYLOANDgT%2Bbw%2BtfdXrFJLiPklo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-04-09T01:28:14+08:00 ] 112.65.193.15 /imooc.php/Home/Index/getBaseInfo?nsukey=lEJ%2FVM9a9w4Qmy7GCDNdWSASQOPXxvvO8UhgbiBbOPuRHBYEXbNFLPzlOlakiszVOulohsdo2wefW%2FJDhFXbooeaiBnV5zpcL7DPfuVQEoQUe2nPESO5Wi09qg7X32FOGDT2iTCFnDzaz%2FN1rX4KAav%2FZv3RVWwKEBv6e0QYLOANDgT%2Bbw%2BtfdXrFJLiPklo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-04-09T01:28:34+08:00 ] 120.83.102.41 /imooc.php/Home/Index/getBaseInfo?nsukey=lEJ%2FVM9a9w4Qmy7GCDNdWSASQOPXxvvO8UhgbiBbOPuRHBYEXbNFLPzlOlakiszVOulohsdo2wefW%2FJDhFXbooeaiBnV5zpcL7DPfuVQEoQUe2nPESO5Wi09qg7X32FOGDT2iTCFnDzaz%2FN1rX4KAav%2FZv3RVWwKEBv6e0QYLOANDgT%2Bbw%2BtfdXrFJLiPklo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-04-09T03:31:30+08:00 ] 101.226.68.215 /imooc.php/Home/Index/getUserDetail?nsukey%3DfyDGUWIk1IKQ4PcFxTcIeTFs6nEuYtDg0TrM1n6NQ%252BLZfLqUrGG%252FBi2os0wtB5Fq32D9Sx21EjP9Ljmm353RqGH2KQb%252BhWSyqaKUsMz5F2o7UwauVDsWwhji8ikVTH80h8Azg59dvcpP6RPyI7XW7iptyZgEy2rnkxABg2Pz0PR40HQ7HyOZdCVVepzpJvXQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-04-09T03:31:40+08:00 ] 180.153.201.15 /imooc.php/Home/Index/getUserDetail?nsukey%3DfyDGUWIk1IKQ4PcFxTcIeTFs6nEuYtDg0TrM1n6NQ%252BLZfLqUrGG%252FBi2os0wtB5Fq32D9Sx21EjP9Ljmm353RqGH2KQb%252BhWSyqaKUsMz5F2o7UwauVDsWwhji8ikVTH80h8Azg59dvcpP6RPyI7XW7iptyZgEy2rnkxABg2Pz0PR40HQ7HyOZdCVVepzpJvXQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-04-09T04:19:59+08:00 ] 140.207.185.109 /imooc.php/Home/Index/getUserDetail?nsukey%3DRDJ5FTmzZQM8XqtptwqUPSci1uY2P9idNgHS2PIsNafFUJCiN8b2kRqxpYkI%252FbqLsCy8liC5%252BMadA7qlO1Ga82zfwGIAmK03vfgmw6Qg0k%252Ff4kPv%252BYRGWZo9PqU6XDgyjHOuBtyVSDgVSjaHeZEixuZZ%252B8Mc6WdjhxQaZTW1Nn0C3iW76tSDmdu4zEutHvwm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-04-09T04:34:25+08:00 ] 112.90.82.218 /imooc.php/Home/Index/getBaseInfo?nsukey%3DyZXnJIt8DD8i7%252BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%252BALdU0qWtFBWXMm6X1q4E%252BAAXbajNWQqFLR2wcI9ClpG45vyHqu%252BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%252FUOd2dDaca6MMSzMb3u%252FT0RdkfBQkX%252BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-04-09T04:34:35+08:00 ] 101.226.65.105 /imooc.php/Home/Index/getBaseInfo?nsukey%3DyZXnJIt8DD8i7%252BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%252BALdU0qWtFBWXMm6X1q4E%252BAAXbajNWQqFLR2wcI9ClpG45vyHqu%252BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%252FUOd2dDaca6MMSzMb3u%252FT0RdkfBQkX%252BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-04-09T07:27:01+08:00 ] 101.226.33.204 /imooc.php/Home/Index/getBaseInfo?nsukey%253DyZXnJIt8DD8i7%25252BN68Av23GyRujsY2uVLR87Cj8m4iwFd6nMSuWpD3ld0K1v2B1cHYfXK3dUj7r%25252BALdU0qWtFBWXMm6X1q4E%25252BAAXbajNWQqFLR2wcI9ClpG45vyHqu%25252BZHZJ1ezWoouPsXplkS4Gg619d2MmTcUy%25252FUOd2dDaca6MMSzMb3u%25252FT0RdkfBQkX%25252BNJi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001248s ]
+

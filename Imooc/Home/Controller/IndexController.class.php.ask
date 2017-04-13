@@ -1,0 +1,161 @@
+<?php
+namespace Home\Controller;
+use Think\Controller;
+class IndexController extends Controller{
+	public function index(){
+		$timestamp = $_GET['timestamp'];
+		$signature = $_GET['signature'];
+		$echostr   = $_GET['echostr'];
+		$nonce     = $_GET['nonce'];
+		$token     = 'weixin';
+		$array     = array();
+		$array     = array($nonce, $timestamp, $token);
+		sort($array);
+		$str = sha1( implode( $array ) );
+		if( $str == $signature && $echostr  ){
+			echo $echostr;
+			exit;
+		}else{
+			$this->responseMsg();
+		}
+	}
+	//订阅事件,文本回复
+	public function reponseMsg(){
+		//1.获取到微信推送过来的post数据(xml格式)
+		$postArr = $GLOBALS['HTTP_RAW_POST_DATA'];
+		//2.处理消息类型.并设置回复类型和内容
+		$postObj = simplexml_load_string( $postArr );
+		//3.判断该数据包是否是订阅的时间推送
+		if( strtolower( $postObj->MsgType ) == 'event' ){
+			//4.如果是关注事件
+			if( strtolower( $postObj->Event )  == 'subscribe' ){
+				//5.回复用户消息
+				$toUser   = $postObj->FromUserName;
+				$fromUser = $postObj->ToUserName;
+				$time     = time();
+				$msgType  = 'text';
+				$content  = '欢迎关注我的微信公众号!';
+				$template = "<xml>
+					     <ToUserName><![CDATA[%s]]></ToUserName>
+					     <FromUserName><![CDATA[%s]]></FromUserName>
+					     <CreateTime>%s</CreateTime>
+					     <MsgType><![CDATA[%s]]></MsgType>
+					     <Content><![CDATA[%s]]></Content>
+					     </xml>";
+				$info     = sprintf($template, $toUser, $fromUser, $time, $msgType, $content);
+				echo $info;
+			}
+		}
+	}
+	public function responseMsg(){
+		$postArr = $GLOBALS['HTTP_RAW_POST_DATA'];
+		$postObj = simplexml_load_string($postArr);
+		if( strtolower( $postObj->MsgType ) == 'text' && trim($postObj->Content) == 'tuwen1' ){
+			$toUser	  = $postObj->FromUserName;
+			$fromUser = $postObj->ToUserName;
+			$arr      = array(
+					array(
+					    'title'=>'imooc',
+					    'description'=>'imooc is very cool',
+					    'picUrl'=>'http://bizhi.zhuoku.com/wall/jie/20070518/avril/011.jpg',
+					    'url'=>'http://www.imooc.com',
+					),
+					array(
+					    'title'=>'baidu',
+					    'description'=>'baidu is very laji',
+					    'picUrl'=>'http://img.mukewang.com/573347590001c52b07410741.jpg',
+					    'url'=>'http://www.baidu.com',
+					),
+				    );
+			$template = "<xml>
+				     <ToUserName><![CDATA[%s]]></ToUserName>
+				     <FromUserName><![CDATA[%s]]></FromUserName>
+				     <CreateTime>%s</CreateTime>
+				     <MsgType><![CDATA[%s]]></MsgType>
+				     <ArticleCount>".count( $arr )."</ArticleCount>
+				     <Articles>";
+				     foreach( $arr as $k => $v ){
+			$template .=    "<item>
+				     	<Title><![CDATA[".$v['title']."]]></Title> 
+				     	<Description><![CDATA[".$v['description']."]]></Description>
+				     	<PicUrl><![CDATA[".$v['picUrl']."]]></PicUrl>
+				     	<Url><![CDATA[".$v['url']."]]></Url>
+					</item>";
+				     }
+			$template .= "</Articles>
+				     </xml>"; 
+			echo sprintf($template, $toUser, $fromUser, time(), 'news');
+		}
+	}
+	public function huifu(){
+		if( strtolower( $postObj->MsgType ) == 'text' ){
+			switch( $postObj->Content ){
+				case 1:
+					$content =  "您输入的是数字1";
+				break;
+				case 2:
+					$content = "您输入的是数字2";
+				break;
+				case '你好':
+					$content = "您好.我叫魏杰!很高心认识您!";
+				break;
+				case '搜索':
+					$content = "<a href='http://www.biying.com'>必应</a>";
+				break;
+				case '电话号码':
+					$content = "15600045558";
+				break;
+			}
+			$template = "<xml>
+                                     <ToUserName><![CDATA[%s]]></ToUserName>
+                                     <FromUserName><![CDATA[%s]]></FromUserName>
+                                     <CreateTime>%s</CreateTime>
+                                     <MsgType><![CDATA[%s]]></MsgType>
+                                     <Content><![CDATA[%s]]></Content>
+                                     </xml>";
+			$toUser   = $postObj->FromUserName;
+			$fromUser = $postObj->ToUserName;
+			$time     = time();
+			$msgType  = 'text';
+			$info     = sprintf($template, $toUser, $fromUser, $time, $msgType, $content);
+			echo $info;
+		}
+	}
+	public function getWxAccessToken(){
+		//1.添加appid和appsecret,访问链接获取access_token
+		$appid = 'wx4ceb763ff92e14d7';
+		$appsecret = 'e251e2135a97f945e897803b2c23b156';
+		$url   = 'https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid='.$appid.'&secret='.$appsecret;
+		//2.初始化curl
+		$ch = curl_init();
+		//3.设置参数
+		curl_setopt($ch, CURLOPT_URL, $url);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+		//4.调用接口
+		$res = curl_exec($ch);
+		//5.关闭url
+		curl_close($ch);
+		if( curl_errno($ch) ){
+			var_dump( curl_errno($ch) );
+		}
+		$arr = json_decode($res, true);
+		var_dump($arr);
+		
+	}
+	public function getWxServerIp(){
+		$access_token = 'Ah7zireRoS4GLI-1-pC9oSe-trMM-7BqUo04CVhPrMYq7qYsOBon4Leg_m0o5JEzycQtd5oCqsypB6y-5aZ3cMqBvcRFWFNnm4WU3qNUJsrcICeq90785NtDY0HTiHngNZSgAIAVHA';
+		$url = 'https://api.weixin.qq.com/cgi-bin/getcallbackip?access_token='.$access_token;
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, $url);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+		$res = curl_exec($ch);
+		curl_close($ch);
+		if( curl_errno($ch) ){
+			var_dump( curl_errno($ch) );
+		}
+		$arr = json_decode($res, true);
+		echo "<pre>";
+		var_dump($arr);
+		echo "</pre>";
+	}
+}
